@@ -215,5 +215,9 @@
   "Level": "Level",
   "Ref Frames": "Ref Frames",
   "Play here": "Play here",
-  "Play on": "Play on"
+  "Play on": "Play on",
+  "Unavailable": "Unavailable",
+  "Problems": "Problems",
+  "Please check the permissions for this file.": "Please check the permissions for this file.",
+  "Please check that this file exists and the necessary drive is mounted.": "Please check that this file exists and the necessary drive is mounted."
 }
