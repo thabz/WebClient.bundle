@@ -1,8 +1,8 @@
 {
-  "Account": "Cuenta",
-  "Back": "Back",
-  "Home": "Casa",
   "Queue": "Cola",
+  "Settings": "Ajustes",
+  "Home": "Casa",
+  "Account": "Cuenta",
   "Recommendations": "Recomendaciónes",
-  "Settings": "Ajustes"
+  "Back": "Back"
 }
