@@ -11,6 +11,7 @@
   "username or email": "username or email",
   "Home Movies": "Home Movies",
   "Manage": "Manage",
+  "Debugging": "Debugging",
   "Debug Level": "Debug Level",
   "Already have an account?": "Already have an account?",
   "On Deck": "On Deck",
@@ -62,7 +63,9 @@
   "Container": "Container",
   "Play": "Play",
   "Clean Bundles": "Clean Bundles",
-  "Video Quality": "Video Quality",
+  "Streaming Quality": "Streaming Quality",
+  "Local Quality": "Local Quality",
+  "Remote Quality": "Remote Quality",
   "Unpublish": "Unpublish",
   "Tracks": "Tracks",
   "There is no media on deck in this section.": "There is no media on deck in this section.",
@@ -175,7 +178,7 @@
   "Done": "Done",
   "password": "password",
   "Mark as Watched": "Mark as Watched",
-  "Create an account": "Create an account",
+  "Need an account?": "Need an account?",
   "You are signed in as {1}.": "You are signed in as {1}.",
   "Username or Email": "Username or Email",
   "There was a problem publishing your server": "There was a problem publishing your server",
@@ -228,5 +231,9 @@
   "To save a video to your queue, click “❯ Plex It!” in your Bookmarks Bar so you can watch it later.": "To save a video to your queue, click “❯ Plex It!” in your Bookmarks Bar so you can watch it later.",
   "A panel will appear on the left side of the page to let you know the video has been saved.": "A panel will appear on the left side of the page to let you know the video has been saved.",
   "Or send videos to your queue by email": "Or send videos to your queue by email",
-  "Every link that you email to this address will be added to your myPlex queue. Add it to your address book so you can easily email links from your iPhone, iPad, Android, or any other device.": "Every link that you email to this address will be added to your myPlex queue. Add it to your address book so you can easily email links from your iPhone, iPad, Android, or any other device."
+  "Every link that you email to this address will be added to your myPlex queue. Add it to your address book so you can easily email links from your iPhone, iPad, Android, or any other device.": "Every link that you email to this address will be added to your myPlex queue. Add it to your address book so you can easily email links from your iPhone, iPad, Android, or any other device.",
+  "Select a Quality": "Select a Quality",
+  "Search Remote Libraries": "Search Remote Libraries",
+  "Search Channels": "Search Channels",
+  "Player": "Player"
 }
