@@ -197,7 +197,7 @@
   "Download": "Téléchargement",
   "Show Advanced Settings": "Voir les réglages avancés",
   "Settings": "Réglages",
-  "Select which additional agents should contribute to metadata from {1}, and drag them to change the order of preference.": "Choisir quel scrapper additionnel sera utilisé pour reccueillir des métadonnées  à partir de {1}, et le déplacer pour changer l'ordre de préférence.",
+  "Select which additional agents should contribute to metadata from {1}, and drag them to change the order of preference.": "Choisir quels agents additionnels seront utilisés pour recueillir des métadonnées avec {1}, et les déplacer pour changer l'ordre de préférence.",
   "Forgot Password?": "Mot de passe oublié ?",
   "Video Frame Rate": "Frame Rate de la vidéo",
   "Check for Updates": "Rechercher les mises à jour",
@@ -316,7 +316,7 @@
   "Feel free to watch Plex work, or take this opportunity to <a href='http://www.plexapp.com/getplex/index.php#apps' target='_blank'>download</a> some Plex apps!": "Vous pouvez rester regarder Plex travailler ou en profiter pour <a href='http://www.plexapp.com/getplex/index.php#apps' target='_blank'>télécharger</a> certaines des applications Plex.",
   "Genre": "Genre",
   "Year": "Année",
-  "Content Rating": "Note",
+  "Content Rating": "Restriction",
   "Collection": "Collection",
   "Director": "Réalisateur",
   "Actor": "Acteur",
@@ -357,7 +357,7 @@
   "Recommend": "Recommendez",
   "Share": "Partagez",
   "Select the correct {1} from the list below": "Sélectionnez le {1} correct de la liste suivante",
-  "Searching for possible matches...": "Recherche de correspondances possibles...",
+  "Searching for possible matches...": "Recherche des correspondances possibles...",
   "No matches found": "Aucune correspondance n'a été trouvée",
   "Search using": "Chercher en utilisant",
   "Match using": "Correspondance en utilisant",
@@ -375,5 +375,7 @@
   "This media item does not have a valid url.": "Le lien de ce média n'est pas valide.",
   "There was a problem recommending this media item.": "Il y a un problème pour recommander ce média.",
   "Say something about this...": "Commentez ceci...",
-  "No message": "Aucun message"
+  "No message": "Aucun message",
+  "There was a problem sharing this media item.": "Il y a un problème de partage de ce média.",
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Vous devez <a href='{1}users/editer' target='_blank'>link votre compte</a>."
 }

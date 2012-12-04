@@ -369,11 +369,13 @@
   "artist": "Artista",
   "album": "Álbum",
   "item": "Item",
-  "Select Friends": "Select Friends",
-  "You need <a class='friends-btn' href='#!/friends'>friends</a> to recommend media.": "You need <a class='friends-btn' href='#!/friends'>friends</a> to recommend media.",
-  "Send": "Send",
-  "This media item does not have a valid url.": "This media item does not have a valid url.",
-  "There was a problem recommending this media item.": "There was a problem recommending this media item.",
-  "Say something about this...": "Say something about this...",
-  "No message": "No message"
+  "Select Friends": "Selecionar Amigos",
+  "You need <a class='friends-btn' href='#!/friends'>friends</a> to recommend media.": "Você precisa <a class='friends-btn' href='#!/friends'>amigos </a> para recomendar arquivos de mídia",
+  "Send": "Enviar",
+  "This media item does not have a valid url.": "Esse item de mídia não possui uma URL válida",
+  "There was a problem recommending this media item.": "Houve um problema ao recomendar esse item de mídia",
+  "Say something about this...": "Diga algo sobre isso",
+  "No message": "Sem mensagem",
+  "There was a problem sharing this media item.": "Houve um problema ao compartilhar esse item de mídia",
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Você precisa de <a href='{1}users/edit' target='_blank'>vincular sua conta</a>."
 }

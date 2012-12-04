@@ -340,7 +340,7 @@
   "DLNA": "DLNA",
   "Network Discovery": "Netzwerkerkennung",
   "Friends": "Freunde",
-  "Add Friend": "Freunde hinzufügen",
+  "Add Friend": "Freund hinzufügen",
   "Requests": "Anfragen",
   "Received": "Empfangen",
   "Sent": "Gesendet",
@@ -375,5 +375,7 @@
   "This media item does not have a valid url.": "Dieses Medium hat keinen gültigen URL.",
   "There was a problem recommending this media item.": "Es gab Probleme diese Mediadatei zu empfehlen.",
   "Say something about this...": "Sag etwas über dieses ...",
-  "No message": "Keine Nachrichten."
+  "No message": "Keine Nachrichten.",
+  "There was a problem sharing this media item.": "Es gab Probleme diese Mediendatei freizugeben.",
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Du musst Dein <a href='{1}users/edit' target='_blank'>Konto verlinken</a>."
 }

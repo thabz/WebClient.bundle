@@ -375,5 +375,7 @@
   "This media item does not have a valid url.": "This media item does not have a valid url.",
   "There was a problem recommending this media item.": "There was a problem recommending this media item.",
   "Say something about this...": "Say something about this...",
-  "No message": "No message"
+  "No message": "No message",
+  "There was a problem sharing this media item.": "There was a problem sharing this media item.",
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "You need to <a href='{1}users/edit' target='_blank'>link your account</a>."
 }

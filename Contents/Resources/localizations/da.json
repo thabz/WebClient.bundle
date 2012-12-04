@@ -375,5 +375,7 @@
   "This media item does not have a valid url.": "Dette medie har ikke noget gyldigt link",
   "There was a problem recommending this media item.": "Der var et problem med at anbefale dette medie.",
   "Say something about this...": "Sig noget om dette...",
-  "No message": "Ingen beskeder"
+  "No message": "Ingen beskeder",
+  "There was a problem sharing this media item.": "Der var et problem med at dele dette medie",
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Du skal <a href='{1}users/edit' target='_blank'>matche din konto</a>."
 }
