@@ -377,5 +377,14 @@
   "Say something about this...": "Diga algo sobre isso",
   "No message": "Sem mensagem",
   "There was a problem sharing this media item.": "Houve um problema ao compartilhar esse item de mídia",
-  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Você precisa de <a href='{1}users/edit' target='_blank'>vincular sua conta</a>."
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Você precisa de <a href='{1}users/edit' target='_blank'>vincular sua conta</a>.",
+  "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.",
+  "There was a problem saving your settings.": "There was a problem saving your settings.",
+  "Are you sure you want to mark all selected items as watched?": "Are you sure you want to mark all selected items as watched?",
+  "Are you sure you want to mark all selected items as unwatched?": "Are you sure you want to mark all selected items as unwatched?",
+  "Basic": "Basic",
+  "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.":"While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.",
+  "Download Updates": "Download Updates",
+  "Refresh to Apply Changes": "Refresh to Apply Changes",
+  "Plex/Web is up to date.": "Plex/Web is up to date."
 }

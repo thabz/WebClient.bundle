@@ -228,7 +228,7 @@
   "Plex It!": "Plex It!",
   "Drag the link above to your bookmarks bar.": "Déplacez ce lien vers la barre de marque pages.",
   "To save a video to your queue, click “❯ Plex It!” in your Bookmarks Bar so you can watch it later.": "Pour sauver une vidéo dans la file d'attente, cliquez sur “❯ Plex It!” dans votre barre de marque pages ainsi vous pourrez la regarder par la suite.",
-  "A panel will appear on the left side of the page to let you know the video has been saved.": "Une notification apparaîtra sur le côté gauche de la page pour vous indiquer que la vidéo a bien été sauvegardée.",
+  "A panel will appear on the left side of the page to let you know the video has been saved.": "Un panneau apparaîtra sur le côté gauche de la page pour vous indiquer que la vidéo a bien été sauvegardée.",
   "Or send videos to your queue by email": "Ou bien envoyer des vidéos à votre file d'attente par email.",
   "Every link that you email to this address will be added to your myPlex queue. Add it to your address book so you can easily email links from your iPhone, iPad, Android, or any other device.": "Chaque lien envoyé par email à cette adresse sera ajouté à votre file d'attente myPlex. Ajoutez-le à votre carnet d'adresses ainsi vous pourrez facilement envoyer le lien à votre iPhone, iPad, Android ou tout autre appareil.",
   "Select a Quality": "Choix de la qualité",
@@ -324,7 +324,7 @@
   "Resolution": "Résolution",
   "Date Added": "Date d'ajout",
   "Date Released": "Date de réalisation",
-  "Date Aired": "Date de diffusion",
+  "Date Aired": "Date de Diffusion",
   "Rating": "Note",
   "Camera Make": "Appareil utilisé",
   "Camera Model": "Modèle d'appareil",
@@ -377,5 +377,14 @@
   "Say something about this...": "Commentez ceci...",
   "No message": "Aucun message",
   "There was a problem sharing this media item.": "Il y a un problème de partage de ce média.",
-  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Vous devez <a href='{1}users/editer' target='_blank'>link votre compte</a>."
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Vous devez <a href='{1}users/editer' target='_blank'>link votre compte</a>.",
+  "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Tentative de lire des vidéos directement avant le retour au transcodeur. Dans la plupart des navigateurs, la lecture directe de fichiers mp4 et de l'audio AAC est supportée. Les sous-titres ne s'afficheront pas si la vidéo est lue directement.",
+  "There was a problem saving your settings.": "Il y a un problème pour sauver les réglages.",
+  "Are you sure you want to mark all selected items as watched?": "Voulez-vous vraiment marquer les objets sélectionnés comme vus ?",
+  "Are you sure you want to mark all selected items as unwatched?": "Voulez-vous vraiment marquer les objets sélectionnés comme non vus?",
+  "Basic": "De base",
+  "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.":"While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.",
+  "Download Updates": "Télécharger les mises à jour",
+  "Refresh to Apply Changes": "Actualiser pour appliquer les changements",
+  "Plex/Web is up to date.": "Plex/Web est à jour."
 }

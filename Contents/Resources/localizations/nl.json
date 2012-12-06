@@ -232,7 +232,7 @@
   "Or send videos to your queue by email": "Of verstuur video's naar uw wachtrij doormiddel van e-mail",
   "Every link that you email to this address will be added to your myPlex queue. Add it to your address book so you can easily email links from your iPhone, iPad, Android, or any other device.": "Elke link die u e-mailt naar dit adres zal worden teogevoegd aan uw myPlex wachtrij. Voeg dit e-mailadres toe aan uw adresboek zodat u makkelijk links kan e-mailen vanaf uw iPhone, iPad, Android of elk ander apparaat.",
   "Select a Quality": "Selecteer kwaliteit",
-  "Search Remote Libraries": "Zoek in bibliotheken op afstand",
+  "Search Remote Libraries": "Doorzoek externe Bibliotheken",
   "Search Channels": "Zoek kanalen",
   "Player": "Speler",
   "Results": "Resultaten",
@@ -277,7 +277,7 @@
   "There was a problem publishing your server.": "Er was een probleem met het publiceren van uw server.",
   "There was a problem unpublishing your server.": "Er was een probleem met het depubliceren van uw server.",
   "The username or password is incorrect.": "De gebruikersnaam of wachtwoord is onjuist.",
-  "There was a problem signing in to myPlex.": "Er was een probleem bij het inloggen van myPlex.",
+  "There was a problem signing in to myPlex.": "Er was een probleem bij het inloggen op myPlex.",
   "There was a problem signing out of myPlex.": "Er was een probleem bij het uitloggen van myPlex.",
   "There was a problem signing up for a myPlex account.": "Er was een probleem bij het registreren van een myPlex account.",
   "The username or password is invalid.": "De gebruikersnaam of wachtwoord is onjuist.",
@@ -377,5 +377,14 @@
   "Say something about this...": "Vertel hier iets over...",
   "No message": "Geen bericht",
   "There was a problem sharing this media item.": "Er is een probleem opgetreden tijdens het delen van dit media item.",
-  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "U moet uw <a href='{1}users/edit' target='_blank'>account koppelen</a>."
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "U moet uw <a href='{1}users/edit' target='_blank'>account koppelen</a>.",
+  "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Probeert video's eerst direct af te spelen voordat het terugvalt op de transcoder. In de meeste browsers ondersteunt direct play mp4 video's met h264 video en AAC audio. Ondertitels zullen niet bijgevoegd worden als de video direct wordt afgespeeld.",
+  "There was a problem saving your settings.": "Er was een probleem bij het opslaan van uw instellingen.",
+  "Are you sure you want to mark all selected items as watched?": "Weet u zeker dat u alle geselecteerde onderdelen als bekeken gemarkeerd wilt hebben?",
+  "Are you sure you want to mark all selected items as unwatched?": "Weet u zeker dat u alle geselecteerde onderdelen als niet bekeken gemarkeerd wilt hebben?",
+  "Basic": "Standaard",
+  "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.":"While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.",
+  "Download Updates": "Download Updates",
+  "Refresh to Apply Changes": "Ververs om de wijzigingen toe te passen",
+  "Plex/Web is up to date.": "Plex/Web is up to date."
 }

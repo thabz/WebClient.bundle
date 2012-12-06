@@ -211,6 +211,7 @@
   "Server is mapped to port {1}": "Server is mapped to port {1}",
   "Available": "Available",
   "Filter": "Filter",
+  "Filter By {1}": "Filter By {1}",
   "New Collection...": "New Collection...",
   "Delete": "Delete",
   "Episode": "Episode",
@@ -362,7 +363,7 @@
   "Search using": "Search using",
   "Match using": "Match using",
   "Custom Search": "Custom Search",
-  "Default Search": "Default Search",
+  "Search Results": "Search Results",
   "Loading...": "Loading...",
   "movie": "movie",
   "show": "show",
@@ -381,5 +382,13 @@
   "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.",
   "There was a problem saving your settings.": "There was a problem saving your settings.",
   "Are you sure you want to mark all selected items as watched?": "Are you sure you want to mark all selected items as watched?",
-  "Are you sure you want to mark all selected items as unwatched?": "Are you sure you want to mark all selected items as unwatched?"
+  "Are you sure you want to mark all selected items as unwatched?": "Are you sure you want to mark all selected items as unwatched?",
+  "Basic": "Basic",
+  "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.": "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.",
+  "Download Updates": "Download Updates",
+  "Refresh to Apply Changes": "Refresh to Apply Changes",
+  "Plex/Web is up to date.": "Plex/Web is up to date.",
+  "There are no collections yet.": "There are no collections yet.",
+  "Add": "Add",
+  "There was a problem adding these items to a collection.": "There was a problem adding these items to a collection."
 }

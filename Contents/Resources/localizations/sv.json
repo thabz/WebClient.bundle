@@ -221,7 +221,7 @@
   "Add folders where your {1} are located": "Lägg till mappar där dina {1} finns",
   "A section name is required.": "Ett avdelningsnamn krävs.",
   "Tip: Select items by holding control/command or shift when clicking.": "Tips: Välj flera objekt genom att hålla ner CTRL/CMD eller SKIFT när du klickar.",
-  "Please wait a moment while Plex starts.": "Vänligen vänta medan Plex startar.",
+  "Please wait a moment while Plex starts.": "Var vänlig vänta medans Plex startar.",
   "A problem has been detected with a core component of Plex. Please visit the <a href='http://forums.plexapp.com/' target='_blank'>forums</a> and provide your logs, as described <a href='http://wiki.plexapp.com/index.php/PlexNine_Tips_and_Tricks#Plex_Log_Files' target='_blank'>here</a>.": "Ett problem har upptäckts i en av Plex huvudkomponenter. Vänligen besök <a href='http://forums.plexapp.com/' target='_blank'>vårt forum</a> och dela med dig av dina loggfiler enligt instruktionerna <a href='http://wiki.plexapp.com/index.php/PlexNine_Tips_and_Tricks#Plex_Log_Files' target='_blank'>här</a>.",
   "Channels may require plugins to be installed alongside the media server. Click on the links below to download the installer for each plugin.": "Kanaler kan kräva att tillägg installeras tillsammans med mediaservern. Klicka på länkarna nedan för att ladda ner installationsfiler för respektive tillägg.",
   "Add videos to your queue from the browser": "Lägg till videor till din kö från webbläsaren.",
@@ -377,5 +377,14 @@
   "Say something about this...": "Say something about this...",
   "No message": "No message",
   "There was a problem sharing this media item.": "There was a problem sharing this media item.",
-  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "You need to <a href='{1}users/edit' target='_blank'>link your account</a>."
+  "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.",
+  "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.",
+  "There was a problem saving your settings.": "There was a problem saving your settings.",
+  "Are you sure you want to mark all selected items as watched?": "Are you sure you want to mark all selected items as watched?",
+  "Are you sure you want to mark all selected items as unwatched?": "Are you sure you want to mark all selected items as unwatched?",
+  "Basic": "Basic",
+  "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.":"While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.",
+  "Download Updates": "Download Updates",
+  "Refresh to Apply Changes": "Refresh to Apply Changes",
+  "Plex/Web is up to date.": "Plex/Web is up to date."
 }
