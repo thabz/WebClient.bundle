@@ -211,6 +211,7 @@
   "Server is mapped to port {1}": "Strežnik je povezan na vrata {1}",
   "Available": "Na voljo",
   "Filter": "Filter",
+  "Filter By {1}": "Filter By {1}",
   "New Collection...": "Nova zbirka...",
   "Delete": "Izbriši",
   "Episode": "Epizoda",
@@ -362,7 +363,7 @@
   "Search using": "Search using",
   "Match using": "Match using",
   "Custom Search": "Custom Search",
-  "Default Search": "Default Search",
+  "Search Results": "Search Results",
   "Loading...": "Loading...",
   "movie": "movie",
   "show": "show",
@@ -386,5 +387,11 @@
   "While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.":"While Plex Media Server will automatically download updates for Plex/Web periodically, use \"Check for Updates\" to manually download updates.",
   "Download Updates": "Download Updates",
   "Refresh to Apply Changes": "Refresh to Apply Changes",
-  "Plex/Web is up to date.": "Plex/Web is up to date."
+  "Plex/Web is up to date.": "Plex/Web is up to date.",
+  "There are no collections yet.": "There are no collections yet.",
+  "Add": "Add",
+  "There was a problem adding these items to a collection.": "There was a problem adding these items to a collection.",
+  "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.",
+  "Always Use Highest Resolution": "Always Use Highest Resolution",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "When multiple resolutions are available for a video, automatically use the highest possible resolution."
 }
