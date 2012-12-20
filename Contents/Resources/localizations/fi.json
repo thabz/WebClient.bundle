@@ -1,5 +1,5 @@
 {
-  "Subtitles": "Tekstitykset",
+  "Subtitles": "Sottotitoli",
   "Start from beginning": "Aloita alusta",
   "In the next few steps, you'll tell Plex where your music, videos, and photos are stored. Plex will create a beautiful library and organize your media inside it.": "Seuraavien vaiheiden aikana sinun tulee kertoa missä musiikkisi, videosi ja valokuvasi sijaitsevat. Plex järjestää tiedostosi ja luo niistä kirjaston.",
   "We will then show you how to get iOS, Android, Mac, PC, and Connected TV apps so that you can access your library from any devices you own, both inside the home and on the go.": "Me näytämme sen jälkeen kuinka saat ohjelmat iOS, Android, Mac, PC, ja Connected TV laitteille jotta voit käyttää kirjastoasi niillä kaikilla, kotona ja sen ulkopuolella.",
@@ -120,7 +120,7 @@
   "Uninstall": "Poista asennus",
   "Albums": "Albumit",
   "Library": "Kirjasto",
-  "Mark as Unwatched": "Katsomattomat",
+  "Mark as Unwatched": "Merkitse katsomattomaksi",
   "of": "/",
   "Unable to authenticate your server": "Serveriä ei voida vahvistaa",
   "Sign Out": "Kirjaudu ulos",
@@ -297,7 +297,7 @@
   "Are you sure you want to delete {1}? This cannot be undone.": "Haluatko varmasti poistaa {1}:n? Tämä on lopullinen muutos.",
   "Delete Media": "Poista",
   "Are you sure you want to delete {1}? This media will be deleted from your filesystem.": "Haluatko varmasti poistaa {1}:n? Tämä poistaa osion levyltäsi.",
-  "Mark as Unwatched": "Katsomattomat",
+  "Mark as Unwatched": "Merkitse katsomattomaksi",
   "Are you sure you want to mark all episodes as unwatched?": "Haluatko varmasti merkata kaikki jaksot katsomattomiksi?",
   "Mark as Watched": "Merkitse katsotuksi",
   "Are you sure you want to mark all episodes as watched?": "Haluatko varmasti merkata kaikki jaksot katsotuiksi?",
@@ -392,6 +392,6 @@
   "Add": "Lisää",
   "There was a problem adding these items to a collection.": "Tapahtui virhe lisätessä kokoelmaan.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Auta meitä kääntämään Plex/Web omalle kielellesi <a href='http://www.getlocalization.com/plexweb' target='_blank'>täällä</a>.",
-  "Always Use Highest Resolution": "Always Use Highest Resolution",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "When multiple resolutions are available for a video, automatically use the highest possible resolution."
+  "Always Use Highest Resolution": "Käytä aina korkeinta resoluutia",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Kun useampia resoluutioita on tarjolla, käytä automaattisesti aina suurinta."
 }

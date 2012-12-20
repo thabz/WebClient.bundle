@@ -68,7 +68,7 @@
   "Local Quality": "Lokale kwaliteit",
   "Remote Quality": "Kwaliteit bij toegang op afstand",
   "Unpublish": "Depubliceren",
-  "Tracks": "Tracks",
+  "Tracks": "Nummers",
   "Maintenance": "Onderhoud",
   "Removes a library section and all items inside. It does not delete any media files. View progress and ratings are preserved, in case any of the items are added in the future.": " Verwijderd een bibliotheek sectie en alle artikelen binnen de sectie. Er worden geen media bestanden verwijderd. Kijk-voortgang en scores zullen worden bewaard, voor het geval dat de artikelen in de toekomt weer worden toegevoegd.",
   "Preferences": "Voorkeuren",
@@ -392,6 +392,6 @@
   "Add": "Toevoegen",
   "There was a problem adding these items to a collection.": "Er was een probleem om deze items aan een collectie toe te voegen.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Help ons <a href='http://www.getlocalization.com/plexweb' target='_blank'>hier</a> om Plex/Web in uw taal te vertalen.",
-  "Always Use Highest Resolution": "Always Use Highest Resolution",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "When multiple resolutions are available for a video, automatically use the highest possible resolution."
+  "Always Use Highest Resolution": "Gebruik altijd de hoogste resolutie",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Wanneer er meerdere video resoluties beschikbaar zijn, gebruik dan automatisch de hoogst mogelijke resolutie."
 }

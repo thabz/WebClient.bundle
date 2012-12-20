@@ -392,6 +392,6 @@
   "Add": "Ajouter",
   "There was a problem adding these items to a collection.": "Il y avait un problème lors de l'ajout de cet élément à la collection.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Aidez-nous à traduire Plex/Web dans votre langue <a href='http://www.getlocalization.com/plexweb' target='_blank'>ici</a>.",
-  "Always Use Highest Resolution": "Toujours utiliser la plus haute résolution",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Lorsque plusieurs resolutions sont disponibles pour une video, automatiquement choisir la plus haute possible."
+  "Always Use Highest Resolution": "Toujours utiliser la résolution la plus élevée",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Lorsque plusieurs résolutions sont disponibles pour une vidéo, utiliser automatiquement la plus élevée possible."
 }

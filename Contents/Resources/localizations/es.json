@@ -295,7 +295,7 @@
   "Are you sure you want to uninstall {1}?": "¿Estás seguro de que quieres desinstalar {1}?",
   "Delete Section": "Borrar la Sección",
   "Are you sure you want to delete {1}? This cannot be undone.": "¿Estás seguro de que quieres borrar {1}? Esto no podrá deshacerse.",
-  "Delete Media": "Borrar medio",
+  "Delete Media": "Borrar archivo",
   "Are you sure you want to delete {1}? This media will be deleted from your filesystem.": "¿Estás seguro de que quieres borrar {1}? El archivo será borrado de tu sistema.",
   "Mark as Unwatched": "Marcar como no visto",
   "Are you sure you want to mark all episodes as unwatched?": "¿Estás seguro de que quieres marcar todos los episodios como no vistos?",
@@ -366,7 +366,7 @@
   "Search Results": "Resultados de la búsqueda",
   "Loading...": "Cargando...",
   "movie": "Película",
-  "show": "mostrar",
+  "show": "Serie",
   "artist": "Artista",
   "album": "Album",
   "item": "elemento",
@@ -392,6 +392,6 @@
   "Add": "Añadir",
   "There was a problem adding these items to a collection.": "Ocurrió un error añadiendo estos elementos a la colección.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Ayudanos a traducir Plex/Web en tu idioma <a href='http://www.getlocalization.com/plexweb' target='_blank'>aquí</a>.",
-  "Always Use Highest Resolution": "Always Use Highest Resolution",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "When multiple resolutions are available for a video, automatically use the highest possible resolution."
+  "Always Use Highest Resolution": "Usar siempre la mejor resolución",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Cuando múltiples resoluciones estén disponibles para un vídeo, automáticamente se utilizará la resolución más alta posible."
 }

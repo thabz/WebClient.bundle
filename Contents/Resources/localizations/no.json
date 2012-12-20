@@ -276,7 +276,7 @@
   "There was a problem splitting {1} apart.": "Det oppstod et problem ved oppdeling av {1}.",
   "There was a problem unmatching {1}.": "Det oppstod et problem ved fjern av treff for {1}.",
   "There was a problem publishing your server.": "Det oppstod et problem ved publisering av din tjener.",
-  "There was a problem unpublishing your server.": "Det oppstod et problem når publisering av tjener skulle stoppes.",
+  "There was a problem unpublishing your server.": "Det oppstod et problem ved fjerning av publisert tjener.",
   "The username or password is incorrect.": "Brukernavnet eller passordet er feil.",
   "There was a problem signing in to myPlex.": "Det oppstod et problem ved innlogging til myPlex.",
   "There was a problem signing out of myPlex.": "Det oppstod et problem ved utlogging av myPlex.",
@@ -352,7 +352,7 @@
   "There was a problem accepting this friend request.": "Det var problemer med å akseptere denne venneforespørsel.",
   "There was a problem rejecting this friend request.": "Det oppstod et problem med å avvise denne venneforespørsel.",
   "There was a problem cancelling this friend request.": "Det oppstod et problem med å avbryter denne venneforespørsel.",
-  "There was a problem deleting this friend request.": "Det oppstod et problem med å slette denne venneforespørsel.",
+  "There was a problem deleting this friend request.": "Det oppstod et problem med å slette denne venneforespørselen.",
   "There was a problem adding {1} as a friend.": "Det oppstod et problem med å legge {1} til som en venn.",
   "Friends are currently unavailable.": "Venner er ikke tilgjengelig for øyeblikket.",
   "Recommend": "Anbefal",
@@ -392,6 +392,6 @@
   "Add": "Legg til",
   "There was a problem adding these items to a collection.": "Det oppstod et problem med å legge disse elementene i en samling.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Hjelp oss å oversette Plex/Web til ditt språk <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.",
-  "Always Use Highest Resolution": "Always Use Highest Resolution",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "When multiple resolutions are available for a video, automatically use the highest possible resolution."
+  "Always Use Highest Resolution": "Bruk alltid høyeste oppløsning",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Når flere oppløsninger er tilgjengelige for en video, bruk automatisk den høyest mulige oppløsning."
 }
