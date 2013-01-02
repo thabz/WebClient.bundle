@@ -393,5 +393,14 @@
   "There was a problem adding these items to a collection.": "Hi ha hagut un error al afegir aquests elements a la col·lecció.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Ajuda'ns a traduïr Plex / web al teu idioma <a href='http://www.getlocalization.com/plexweb' target='_blank'>aqui</a>.",
   "Always Use Highest Resolution": "Fer servir sempre la màxima resolució",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Quan hi hagi diferents resolucions disponibles per a un vídeo, fer servir automàticament la màxima resolució possible."
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Quan hi hagi diferents resolucions disponibles per a un vídeo, fer servir automàticament la màxima resolució possible.",
+  "Searching for artwork...": "Searching for artwork...",
+  "No artwork found": "No artwork found",
+  "Select Artwork": "Select Artwork",
+  "choose an image": "choose an image",
+  "drag and drop": "drag and drop",
+  "enter a url": "enter a url",
+  "Uploading artwork...": "Uploading artwork...",
+  "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.": "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.",
+  "Enter a url to upload an image from the web": "Enter a url to upload an image from the web"
 }

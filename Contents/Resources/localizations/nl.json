@@ -155,10 +155,10 @@
   "Searching for": "Zoeken naar",
   "Hide Advanced Settings": "Verberg geavanceerde instellingen",
   "Delete from Playlist": "Verwijder van afspeellijst",
-  "Sign in to your": "Login op uw",
+  "Sign in to your": "Log in op uw",
   "Password": "Wachtwoord",
   "My Library": "Mijn Bibliotheek",
-  "Add to Collection": "Toevoegen aan de collectie",
+  "Add to Collection": "Toevoegen aan Collectie",
   "Verbose": "Verbose",
   "Queue": "Wachtrij",
   "Plex Video Files Scanner": "Plex Video Bestand Scanner",
@@ -393,5 +393,14 @@
   "There was a problem adding these items to a collection.": "Er was een probleem om deze items aan een collectie toe te voegen.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Help ons <a href='http://www.getlocalization.com/plexweb' target='_blank'>hier</a> om Plex/Web in uw taal te vertalen.",
   "Always Use Highest Resolution": "Gebruik altijd de hoogste resolutie",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Wanneer er meerdere video resoluties beschikbaar zijn, gebruik dan automatisch de hoogst mogelijke resolutie."
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Wanneer er meerdere video resoluties beschikbaar zijn, gebruik dan automatisch de hoogst mogelijke resolutie.",
+  "Searching for artwork...": "Zoeken naar illustratie...",
+  "No artwork found": "Geen illustratie gevonden",
+  "Select Artwork": "Selecteer illustratie",
+  "choose an image": "Selecteer een afbeelding",
+  "drag and drop": " slepen en neerzetten",
+  "enter a url": "Voer een webadres in",
+  "Uploading artwork...": "Bezig met uploaden illustratie...",
+  "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.": "Er iets fout gegaan bij het uploaden van deze illustratie. <a class='upload-back' href='#'>Probeer nogmaals</a>.",
+  "Enter a url to upload an image from the web": "Voer een webadres in om een afbeelding van het internet te uploaden"
 }

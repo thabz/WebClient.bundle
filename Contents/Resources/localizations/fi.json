@@ -1,5 +1,5 @@
 {
-  "Subtitles": "Sottotitoli",
+  "Subtitles": "Tekstitykset",
   "Start from beginning": "Aloita alusta",
   "In the next few steps, you'll tell Plex where your music, videos, and photos are stored. Plex will create a beautiful library and organize your media inside it.": "Seuraavien vaiheiden aikana sinun tulee kertoa missä musiikkisi, videosi ja valokuvasi sijaitsevat. Plex järjestää tiedostosi ja luo niistä kirjaston.",
   "We will then show you how to get iOS, Android, Mac, PC, and Connected TV apps so that you can access your library from any devices you own, both inside the home and on the go.": "Me näytämme sen jälkeen kuinka saat ohjelmat iOS, Android, Mac, PC, ja Connected TV laitteille jotta voit käyttää kirjastoasi niillä kaikilla, kotona ja sen ulkopuolella.",
@@ -393,5 +393,14 @@
   "There was a problem adding these items to a collection.": "Tapahtui virhe lisätessä kokoelmaan.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Auta meitä kääntämään Plex/Web omalle kielellesi <a href='http://www.getlocalization.com/plexweb' target='_blank'>täällä</a>.",
   "Always Use Highest Resolution": "Käytä aina korkeinta resoluutia",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Kun useampia resoluutioita on tarjolla, käytä automaattisesti aina suurinta."
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Kun useampia resoluutioita on tarjolla, käytä automaattisesti aina suurinta.",
+  "Searching for artwork...": "Searching for artwork...",
+  "No artwork found": "No artwork found",
+  "Select Artwork": "Select Artwork",
+  "choose an image": "choose an image",
+  "drag and drop": "drag and drop",
+  "enter a url": "enter a url",
+  "Uploading artwork...": "Uploading artwork...",
+  "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.": "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.",
+  "Enter a url to upload an image from the web": "Enter a url to upload an image from the web"
 }

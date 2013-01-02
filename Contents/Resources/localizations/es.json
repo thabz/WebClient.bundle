@@ -380,7 +380,7 @@
   "There was a problem sharing this media item.": "Hubo un problema compartiendo este elemento multimedia.",
   "You need to <a href='{1}users/edit' target='_blank'>link your account</a>.": "Necesitas <a href='{1}users/edit' target='_blank'>enlazar tu cuenta</a>.",
   "Attempt to play videos directly before falling back to the transcoder. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Intenta reproducir los videos antes de pasarlos al transcodificador. En la mayoría de navegadores, la reproducción directa soporta videos MP4 con codificación h264 y audio AAC. Los subtittulos no serán incluidos si el video se reproduce directamente.",
-  "There was a problem saving your settings.": "Ha ocurrido un error guardando los nuevos ajustes.",
+  "There was a problem saving your settings.": "Ha ocurrido un error guardando tus ajustes.",
   "Are you sure you want to mark all selected items as watched?": "¿Estás seguro de que quieres marcar todos los elementos como vistos?",
   "Are you sure you want to mark all selected items as unwatched?": "¿Estás seguro de que quieres marcar todos los elementos como no vistos?",
   "Basic": "Básico",
@@ -392,6 +392,15 @@
   "Add": "Añadir",
   "There was a problem adding these items to a collection.": "Ocurrió un error añadiendo estos elementos a la colección.",
   "Help us translate Plex/Web into your language <a href='http://www.getlocalization.com/plexweb' target='_blank'>here</a>.": "Ayudanos a traducir Plex/Web en tu idioma <a href='http://www.getlocalization.com/plexweb' target='_blank'>aquí</a>.",
-  "Always Use Highest Resolution": "Usar siempre la mejor resolución",
-  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Cuando múltiples resoluciones estén disponibles para un vídeo, automáticamente se utilizará la resolución más alta posible."
+  "Always Use Highest Resolution": "Usar siempre la resolución más alta",
+  "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "Cuando múltiples resoluciones estén disponibles para un vídeo, automáticamente se utilizará la resolución más alta posible.",
+  "Searching for artwork...": "Searching for artwork...",
+  "No artwork found": "No artwork found",
+  "Select Artwork": "Select Artwork",
+  "choose an image": "choose an image",
+  "drag and drop": "Arrastrar y soltar",
+  "enter a url": "enter a url",
+  "Uploading artwork...": "Uploading artwork...",
+  "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.": "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.",
+  "Enter a url to upload an image from the web": "Enter a url to upload an image from the web"
 }
