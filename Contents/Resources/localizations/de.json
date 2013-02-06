@@ -136,7 +136,7 @@
   "Back": "Zurück",
   "Shared Libraries": "Freigegebene Bibliotheken",
   "Photo": "Foto",
-  "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a section, all information about missing media is deleted.": "In den Standardeinstellungen werden Medieninformationen nicht direkt gelöscht. Das ist sinnvoll, wenn ein Laufwerk mit Medien kurzzeitig nicht verfügbar ist. Beim Leeren des Papierkorb einer Sektion werden Informationen von fehlenden Medien unwiderruflich gelöscht.",
+  "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a section, all information about missing media is deleted.": "In den Standardeinstellungen werden Medieninformationen nicht direkt gelöscht. Das ist sinnvoll, wenn ein Laufwerk mit Medien kurzzeitig nicht verfügbar ist. Beim Leeren des Papierkorbes einer Sektion werden Informationen von fehlenden Medien unwiderruflich gelöscht.",
   "Media": "Medien",
   "Change Background": "Hintergrund ändern",
   "Bitrate": "Bitrate",
