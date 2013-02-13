@@ -419,7 +419,7 @@
   "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.": "Fehler beim upload dieses Bildes. <a class='upload-back' href='#'>Nochmal versuchen</a>.",
   "Enter a url to upload an image from the web": "Gib einen URL für den Upload eines Bildes aus dem Web ein.",
   "View XML": "XML anzeigen",
-  "Require authentication on local networks": "Anmeldung am lokalen Netzwerk notwendig",
+  "Require authentication on local networks": "Anmeldung im lokalen Netzwerk notwendig",
   "Populates the allowed networks setting with 127.0.0.1/255.255.255.255. This requires other computers on a local network to authenticate with myPlex before accessing the server.": "Stellt die die erlaubten Netzwerke auf 127.0.0.1/255.255.255.255 ein. Dadurch müssen sich Computer im lokalen Netzwerk bei myPlex anmelden, bevor sie auf diesen Server Zugreifen können.",
   "Prefer AAC Audio": "Bevorzuge AAC Audio",
   "Prefer AAC over MP3 when transcoding audio. Some devices, like the Wii U, only support HLS with AAC audio.": "Bevorzuge AAC vor MP3 bei der Audioübertragung. Manche Geräte, zum Beispiel die Wii U, unterstützen nur HLS mit AAC Audio.",
@@ -454,7 +454,7 @@
   "Aperture library XML path": "Aperture Bibliothek XML Pfad",
   "Enable Aperture sharing": "Aperture-Freigabe aktivieren",
   "Number of seconds to wait before a plugin times out": "Wartezeit in Sekunden bevor ein Plugin bei einem Fehler gestoppt wird",
-  "Disable capability checking": "Deaktiviere die Funktionsfähigkeitsprüfung",
+  "Disable capability checking": "Deaktivierung der Kompatibilitätsüberprüfung ",
   "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.": "Die Funktionsfähigkeitsprüfung stellt sicher, dass mit diesem Server oder dem aktuellen Client inkompatible Plugins nicht angezeigt werden. Das Deaktivieren kann während der Entwicklungsphase nützlich sein, erlaubt es aber mit manchen Clients unzuverlässige Plugins zu nutzen.",
   "iPhoto library XML path": "Photo Bibliothek XML Pfad",
   "Enable iPhoto sharing": "Erlaube iPhoto Freigabe",
@@ -548,5 +548,5 @@
   "By Folder": "Nach Ordnern",
   "Add Channel": "Kanal hinzufügen",
   "The trash for all sections was emptied.": "Der Papierkorb für alle Sektionen wurde geleert.",
-  "Directory Settings": "Directory Settings"
+  "Directory Settings": "Verzeichnis Einstellungen"
 }

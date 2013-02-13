@@ -526,7 +526,7 @@
   "Nothing is synced to this device.": "沒有任何媒體被同步到此裝置.",
   "Dashboard": "儀表板",
   "More": "其他",
-  "Plex Media Server": "Plex Media Server",
+  "Plex Media Server": "Plex媒體伺服器",
   "Servers": "伺服器",
   "View All": "查看全部",
   "Add Friend": "增加好友",
@@ -548,5 +548,5 @@
   "By Folder": "以資料夾",
   "Add Channel": "增加頻道",
   "The trash for all sections was emptied.": "The trash for all sections was emptied.",
-  "Directory Settings": "Directory Settings"
+  "Directory Settings": "目錄設定"
 }

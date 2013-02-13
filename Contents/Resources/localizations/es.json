@@ -476,7 +476,7 @@
   "WebKit window visible": "Ventana Webkit visible",
   "Show the WebKit window used by plugins instead of placing it off screen": "Mostrar la ventana de Webkit usada por plugins en lugar de posicionarla fuera de pantalla",
   "Enable Media Link down-mixing of DTS audio.": "Activar down-mixing de audio DTS para Media Link",
-  "Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.": "Media Link no soporta audio DTS en algunas regiones. Plex Media Server puede convertir automáticamente DTS a Estéreo y así poder reproducir.",
+  "Media Link does not support DTS audio in certain regions. The Plex Media Server can automatically convert DTS to stereo so that it will play.": "Media Link no soporta audio DTS en algunas regiones. Plex Media Server puede convertir automáticamente DTS a Estéreo y así poderlo reproducir.",
   "Offer higher bitrates over 3G connections": "Ofrece bitrates mas altos sobre conexiones 3G",
   "Automatically select audio tracks": "Seleccionar automáticamente la pista de audio",
   "Automatically select audio tracks in your preferred language when possible.": "Seleccionar automáticamente la pista de audio en tu lenguaje preferido cuando sea posible.",
