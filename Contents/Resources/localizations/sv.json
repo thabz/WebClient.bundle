@@ -548,5 +548,8 @@
   "By Folder": "På Mapp",
   "Add Channel": "Lägg till Kanal",
   "The trash for all sections was emptied.": "Papperskorgen för alla sektioner tömdes.",
-  "Directory Settings": "Kataloginställningar"
+  "Directory Settings": "Kataloginställningar",
+  "Play Theme Music": "Spela signaturmelodi",
+  "Automatically play theme music in the background when available.": "Spela signaturmelodi automatiskt i bakgrunden om den finns tillgänglig.",
+  "Announcements": "Meddelanden"
 }

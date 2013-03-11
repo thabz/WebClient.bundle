@@ -405,7 +405,7 @@
   "Highest": "Наивысшее",
   "Limit": "Ограниченное",
   "None": "Нет",
-  "By number of items": "По количеству элементов",
+  "By number of items": "По номерам элементов",
   "By duration": "По продолжительности",
   "items": "элементы",
   "minutes": "минуты",
@@ -503,7 +503,7 @@
   "FINER": "FINER",
   "FINEST": "FINEST",
   "ALL": "BCE",
-  "DLNA server timeline reporting": "DLNA服务器时间线报告",
+  "DLNA server timeline reporting": "Время отчетности DLNA сервера",
   "Enable the PMS DLNA server to report timelines for video play activity": "Включить генерацию хронологии воспроизведения  видео PMS DLNA сервером",
   "Service type for discovered clients": "Тип обслуживания для обнаруженных клиентов",
   "Enable the Bonjour Daemon": "Включить службу Bonjour",
@@ -548,5 +548,8 @@
   "By Folder": "По папке",
   "Add Channel": "Добавить канал",
   "The trash for all sections was emptied.": "Корзина для всех разделов была очищена.",
-  "Directory Settings": "Настройки каталога"
+  "Directory Settings": "Настройки каталога",
+  "Play Theme Music": "Проиграть музыку темы",
+  "Automatically play theme music in the background when available.": "При возможности автоматически проигрывать в фоне музыку для темы.",
+  "Announcements": "Объявления"
 }

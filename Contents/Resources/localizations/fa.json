@@ -424,7 +424,7 @@
   "Prefer AAC Audio": "صدای ای ای سی را ترجیح می دهم",
   "Prefer AAC over MP3 when transcoding audio. Some devices, like the Wii U, only support HLS with AAC audio.": "Prefer AAC over MP3 when transcoding audio. Some devices, like the Wii U, only support HLS with AAC audio.",
   "Friendly name": "Friendly name",
-  "This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.": "This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.",
+  "This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.": "این نام استفاده می شود برای شناسایی این سرور به کامپیوتر های دیگر در شبکه شما. اگر شما آن را خالی رد کنید، نام کامپیوتر شما به جای آن استفاده خواهد شد \n",
   "Send anonymous usage data to Plex": "Send anonymous usage data to Plex",
   "This helps us improve your experience (for example, to help us match movies and TV shows).": "This helps us improve your experience (for example, to help us match movies and TV shows).",
   "Plex Media Server verbose logging": "Plex Media Server verbose logging",
@@ -548,5 +548,8 @@
   "By Folder": "By Folder",
   "Add Channel": "Add Channel",
   "The trash for all sections was emptied.": "The trash for all sections was emptied.",
-  "Directory Settings": "Directory Settings"
+  "Directory Settings": "Directory Settings",
+  "Play Theme Music": "Play Theme Music",
+  "Automatically play theme music in the background when available.": "Automatically play theme music in the background when available.",
+  "Announcements": "Announcements"
 }

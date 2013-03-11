@@ -548,5 +548,8 @@
   "By Folder": "Por directoria",
   "Add Channel": "Adicionar canal",
   "The trash for all sections was emptied.": "A reciclagem foi esvaziada para todas as secções.",
-  "Directory Settings": "Definições de directoria"
+  "Directory Settings": "Definições de directoria",
+  "Play Theme Music": "Tocar a música do genérico",
+  "Automatically play theme music in the background when available.": "Automaticamente tocar a música do genérico em plano de fundo, quando disponível",
+  "Announcements": "Anúncios"
 }

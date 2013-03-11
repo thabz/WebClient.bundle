@@ -241,7 +241,7 @@
   "The media server is not responding.": "Le serveur ne répond pas.",
   "The media server responded with an error.": "Le serveur de médias a répondu avec une erreur.",
   "You do not have permission to access this page.": "Vous n'avez pas le droit d'accéder à cette page",
-  "This media server is currently unavailable.": "Ce média n'est pas disponible pour le moment.",
+  "This media server is currently unavailable.": "Le serveur de média est actuellement indisponible",
   "This page is only available for your media servers.": "Cette page est seulement disponible pour vos serveurs de médias.",
   "This page doesn't exist... yet.": "Cette page n'existe pas...encore",
   "Please sign in to myPlex to access your playlists.": "Merci de vous connecter à myPlex pour voir vos playlists.",
@@ -428,8 +428,8 @@
   "Send anonymous usage data to Plex": "Envoyer anonymement les données d'utilisation à Plex.",
   "This helps us improve your experience (for example, to help us match movies and TV shows).": "Ceci permet de nous aider à améliorer l'expérience utilisateur ( par exemple, pour nous aider à faire correspondre les films et les séries )",
   "Plex Media Server verbose logging": "Journal Plex Media Server verbeux.",
-  "Enable Plex Media Server verbose logging": "Activer le journal verbeux de Plex Media Server",
-  "Ask to add a login item for externally mounted drives": "Demander lors de l'ajout d'un élément pour les lecteurs externes",
+  "Enable Plex Media Server verbose logging": "Activer le journal détaillé du serveur Plex Media",
+  "Ask to add a login item for externally mounted drives": "Demander une authentification à l'ouverture de lecteurs externes",
   "Plex Media Server debug logging": "Journal de déboguage de Plex Media Server",
   "Enable Plex Media Server debug logging": "Activer le journal de déboguage de Plex Media Server",
   "Show a dock icon": "Afficher un icône du dock.",
@@ -509,7 +509,7 @@
   "Enable the Bonjour Daemon": "Activer le processus Bonjour",
   "Advertised domain": "Domaine enregistré",
   "Enable Bonjour": "Activer le processus Bonjour",
-  "Advertised hostname": "Nom de l'hôte enregistré",
+  "Advertised hostname": "Nom d'hôte annoncé",
   "Service type for discovered servers": "Type de service pour la découverte des clients",
   "Advertised service type": "Type de service enregistré",
   "Enable GDM": "Activer GDM",
@@ -548,5 +548,8 @@
   "By Folder": "Par dossier",
   "Add Channel": "Ajouter une chaîne",
   "The trash for all sections was emptied.": "La corbeille pour toutes les sections a été vidé.",
-  "Directory Settings": "Réglages du répertoire"
+  "Directory Settings": "Réglages du répertoire",
+  "Play Theme Music": "Play Theme Music",
+  "Automatically play theme music in the background when available.": "Automatically play theme music in the background when available.",
+  "Announcements": "Announcements"
 }

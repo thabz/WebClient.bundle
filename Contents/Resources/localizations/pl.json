@@ -548,5 +548,8 @@
   "By Folder": "W/g Folderów",
   "Add Channel": "Dodaj Kanał",
   "The trash for all sections was emptied.": "Opróżniono Kosz dla wszystkich sekcji.",
-  "Directory Settings": "Ustawienia Katalogu"
+  "Directory Settings": "Ustawienia Katalogu",
+  "Play Theme Music": "Automatycznie odtwarzaj podkład muzyczny w tle jeśli dostępny.",
+  "Automatically play theme music in the background when available.": "Automatycznie odtwarzaj podkład muzyczny w tle jeśli dostępny.",
+  "Announcements": "Anonse"
 }

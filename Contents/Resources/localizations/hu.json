@@ -131,7 +131,7 @@
   "This media server is unavailable to you.": "Ez a média szerver nem érhető el az Ön számára.",
   "Please check that you have permission to access this media server.": "Kérjük, ellenőrizze megfelelő jogosultságát a média szerverhez.",
   "Select a Media Server": "Válasszon média szervert",
-  "Audio": "Hangok",
+  "Audio": "Audió",
   "Music": "Zene",
   "Back": "Vissza",
   "Shared Libraries": "Megosztott könyvtárak",
@@ -548,5 +548,8 @@
   "By Folder": "Könyvtár szerint",
   "Add Channel": "Csatorna hozzáadása",
   "The trash for all sections was emptied.": "Minden szakasz hulladéka ürítve.",
-  "Directory Settings": "Könyvtár beállítások"
+  "Directory Settings": "Könyvtár beállítások",
+  "Play Theme Music": "Téma zenéjének lejátszása",
+  "Automatically play theme music in the background when available.": "Automatikusan játssza a téma zenéjét a háttérben, mikor elérhető",
+  "Announcements": "Közlemények"
 }

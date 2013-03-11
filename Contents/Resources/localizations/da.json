@@ -548,5 +548,8 @@
   "By Folder": "Ved mappe",
   "Add Channel": "Tilføj kanal",
   "The trash for all sections was emptied.": "Papirkurven for alle sektioner blev tømt.",
-  "Directory Settings": "Oversigtsindstillinger"
+  "Directory Settings": "Oversigtsindstillinger",
+  "Play Theme Music": "Afspil Tema musik",
+  "Automatically play theme music in the background when available.": "Afspil automatisk tema musik i baggrunden, hvis det er tilgængeligt",
+  "Announcements": "Meddelelser"
 }

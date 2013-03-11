@@ -548,5 +548,8 @@
   "By Folder": "Op map",
   "Add Channel": "Kanaal toevoegen",
   "The trash for all sections was emptied.": "De prullenbak voor alle secties is geleegd.",
-  "Directory Settings": "Mappen instellingen"
+  "Directory Settings": "Mappen instellingen",
+  "Play Theme Music": "Speel themamuziek",
+  "Automatically play theme music in the background when available.": "Indien beschikbaar, automatisch muziek in de achtergrond afspelen",
+  "Announcements": "Aankondigingen"
 }

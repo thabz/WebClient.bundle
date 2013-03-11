@@ -8,8 +8,8 @@
   "Plex Movie Scanner": "Plex Filmscanner",
   "Please check that this file exists and the necessary drive is mounted.": "Prüfe bitte ob die Datei vorhanden bzw. das Netzlaufwerk verfügbar ist.",
   "Change Poster": "Poster wechseln",
-  "username or email": "Username oder eMail",
-  "Home Movies": "Heimvideos",
+  "username or email": "Benutzername oder E-Mail",
+  "Home Movies": "Eigene Filme",
   "Manage": "Verwalten",
   "Debug": "Debug",
   "Debug Level": "Debug Level",
@@ -355,7 +355,7 @@
   "Friends are currently unavailable.": "Zur Zeit sind keine Freunde erreichbar.",
   "Recommend": "Empfehlen",
   "Share": "Teilen",
-  "Select the correct {1} from the list below": "Wähle den korrekten {1} aus der Liste unten.",
+  "Select the correct {1} from the list below": "Wähle das korrekte {1} aus der Liste unten.",
   "Searching for possible matches...": "Suche nach möglichen Übereinstimmungen ...",
   "No matches found": "Keine Übereinstimmungen gefunden.",
   "Search using": "Suche mit ",
@@ -367,7 +367,7 @@
   "show": "Serie",
   "artist": "Künstler",
   "album": "Album",
-  "item": "Artikel",
+  "item": "Element",
   "Select Friends": "Wähle Freunde",
   "You need <a class='friends-btn' href='#!/friends'>friends</a> to recommend media.": "Du brauchst <a class='friends-btn' href='#!/friends'>Freunde</a> um Medien zu empfehlen.",
   "Send": "Senden",
@@ -548,5 +548,8 @@
   "By Folder": "Nach Ordnern",
   "Add Channel": "Kanal hinzufügen",
   "The trash for all sections was emptied.": "Der Papierkorb für alle Sektionen wurde geleert.",
-  "Directory Settings": "Verzeichnis Einstellungen"
+  "Directory Settings": "Verzeichnis Einstellungen",
+  "Play Theme Music": "Spiele Titelmusik",
+  "Automatically play theme music in the background when available.": "Spiele Titelmusik automatisch, wenn vorhanden.",
+  "Announcements": "Ankündigungen"
 }

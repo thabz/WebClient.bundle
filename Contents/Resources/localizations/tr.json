@@ -548,5 +548,8 @@
   "By Folder": "Klasör Olarak",
   "Add Channel": "Kanal Ekle",
   "The trash for all sections was emptied.": "Bütün bölümler için geri dönüşüm kutusu boşaltıldı.",
-  "Directory Settings": "Klasör Ayarları"
+  "Directory Settings": "Klasör Ayarları",
+  "Play Theme Music": "Play Theme Music",
+  "Automatically play theme music in the background when available.": "Automatically play theme music in the background when available.",
+  "Announcements": "Announcements"
 }
