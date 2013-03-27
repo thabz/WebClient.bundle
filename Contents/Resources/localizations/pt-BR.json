@@ -568,12 +568,12 @@
   "Hide when no unread announcements are available": "Esconder quando não houver nenhum anúncio não lido",
   "Mark as Read": "Marcar como Lido",
   "Sorry, you need a <a href='{1}' target='_blank'>PlexPass subscription</a> for this feature.": "Desculpe, você precisa de uma <a href='{1}' target='_blank'>assinatura PlexPass</a> para esta função.",
-  "Sorry, you need a PlexPass subscription to save some of these settings.": "Sorry, you need a PlexPass subscription to save some of these settings.",
-  "Agent Settings": "Agent Settings",
-  "Agent Info": "Agent Info",
-  "Widget Settings": "Widget Settings",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.",
-  "Direct Stream": "Direct Stream",
-  "Allows the server to copy compatible audio and video streams without converting them.": "Allows the server to copy compatible audio and video streams without converting them.",
-  "At least one folder is required.": "At least one folder is required."
+  "Sorry, you need a PlexPass subscription to save some of these settings.": "Lamentamos, você necessita uma subscrição PlexPass para guardar algumas dessas configurações.",
+  "Agent Settings": "Configurações do agente",
+  "Agent Info": "Informações do agente",
+  "Widget Settings": "Configurações do widget",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Permite ao reprodutor passar média compatível sem conversão. Na maioria dos navegadores, o direct play suporta vídeos mp4 em h264 com áudio AAC. Legendas não serão incluídas se o vídeo for reproduzido diretamente (através de direct play).",
+  "Direct Stream": "Stream direta",
+  "Allows the server to copy compatible audio and video streams without converting them.": "Permite ao servidor copiar streams áudio e vídeo compatíveis sem as converter.",
+  "At least one folder is required.": "Pelo menos um diretório é necessário."
 }

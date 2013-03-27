@@ -567,13 +567,13 @@
   "Adjust priority based on when the most recent video was recommended": "Bepaal prioriteit aan de hand van wanneer nieuwste video werd aanbevolen",
   "Hide when no unread announcements are available": "Verberg wanneer er geen ongelezen berichten zijn",
   "Mark as Read": "Markeer als gelezen",
-  "Sorry, you need a <a href='{1}' target='_blank'>PlexPass subscription</a> for this feature.": "Sorry, you need a <a href='{1}' target='_blank'>PlexPass subscription</a> for this feature.",
-  "Sorry, you need a PlexPass subscription to save some of these settings.": "Sorry, you need a PlexPass subscription to save some of these settings.",
-  "Agent Settings": "Agent Settings",
-  "Agent Info": "Agent Info",
-  "Widget Settings": "Widget Settings",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.",
+  "Sorry, you need a <a href='{1}' target='_blank'>PlexPass subscription</a> for this feature.": "U heeft een <a href='{1}' target='_blank'>PlexPass</a> nodig voor deze functie",
+  "Sorry, you need a PlexPass subscription to save some of these settings.": "U heeft een PlexPass nodig om een aantal van deze instellingen op te slaan",
+  "Agent Settings": "Agent instellingen",
+  "Agent Info": "Agent info",
+  "Widget Settings": "Widget instellingen",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Speelt compatible media zonder te converteren. De meeste browsers ondersteunen het direct afspelen van mp4 video's met h264 video en AAC audio. Subtitles worden niet bijgesloten bij direct afspelen",
   "Direct Stream": "Direct Stream",
-  "Allows the server to copy compatible audio and video streams without converting them.": "Allows the server to copy compatible audio and video streams without converting them.",
-  "At least one folder is required.": "At least one folder is required."
+  "Allows the server to copy compatible audio and video streams without converting them.": "Speelt compatible audio en video streams af zonder te converteren.",
+  "At least one folder is required.": "Er is minimaal een map vereist"
 }

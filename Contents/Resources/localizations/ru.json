@@ -553,7 +553,7 @@
   "Announcements": "Объявления",
   "Select a Player": "Select a Player",
   "Maximize width": "Maximize width",
-  "Expand the dashboard to use the full width of the page.": "Expand the dashboard to use the full width of the page.",
+  "Expand the dashboard to use the full width of the page.": "Расширьте панель управления для использования всей ширины страницы",
   "Widgets": "Widgets",
   "Adjust priority based on when the most recent video was watched": "Adjust priority based on when the most recent video was watched",
   "Show wide thumbnails": "Show wide thumbnails",
@@ -573,7 +573,7 @@
   "Agent Info": "Agent Info",
   "Widget Settings": "Widget Settings",
   "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.",
-  "Direct Stream": "Direct Stream",
-  "Allows the server to copy compatible audio and video streams without converting them.": "Allows the server to copy compatible audio and video streams without converting them.",
+  "Direct Stream": "прямой поток",
+  "Allows the server to copy compatible audio and video streams without converting them.": "Позволяет серверу копировать совместимые аудио и видео потоки, не преобразовывая их.",
   "At least one folder is required.": "At least one folder is required."
 }
