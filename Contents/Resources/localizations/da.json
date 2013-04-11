@@ -413,7 +413,7 @@
   "Select Artwork": "Vælg en illustration",
   "choose an image": "vælg et billede",
   "drag and drop": "træk og slip",
-  "enter a url": "indtast en henvisning",
+  "enter a url": "indtast en URL",
   "Uploading artwork...": "Uploader illustrationer...",
   "There was an error uploading this artwork. <a class='upload-back' href='#'>Try again</a>.": "Der opstod en fejl under upload af denne illustration. <a class='upload-back' href='#'>Prøv igen</a>.",
   "Enter a url to upload an image from the web": "Indtast en henvisning for at uploade et billede fra internettet",
@@ -572,8 +572,16 @@
   "Agent Settings": "Agent Indstillinger",
   "Agent Info": "Agent Info",
   "Widget Settings": "Widget Indstillinger",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Tillader afspilleren at spille kompatible medier uden nogen konvertering. I de fleste browsere understøtter direkte afspilning mp4 videoer med H264 video og AAC-lyd. Undertekster vil ikke blive indkluderet, hvis en video afspilles direkte.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Direct Stream",
   "Allows the server to copy compatible audio and video streams without converting them.": "Tillader at serveren kopierer kompatible audio- og video-streams uden at konvertere dem.",
-  "At least one folder is required.": "Mindst én mappe er påkrævet."
+  "At least one folder is required.": "Mindst én mappe er påkrævet.",
+  "Now Playing": "Now Playing",
+  "on": "on",
+  "Search remote libraries is disabled.": "Search remote libraries is disabled.",
+  "myPlex is down for maintenance.": "myPlex is down for maintenance.",
+  "Transcoding": "Transcoding",
+  "No Transcode Session": "No Transcode Session",
+  "Transcode": "Transcode",
+  "throttled": "throttled"
 }

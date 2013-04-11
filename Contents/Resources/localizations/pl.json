@@ -572,8 +572,16 @@
   "Agent Settings": "Ustawienia Agenta",
   "Agent Info": "Informacje o Agencie",
   "Widget Settings": "Ustawienia Widżetu",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Umożliwia odtwarzanie kompatybilnych multimediów bezpośrednio bez konwersji. W większości przeglądarek odtwarzanie bezpośrednie wspiera format mp4 z kodowaniem wideo h264 i AAC audio. Gdy wideo jest odtwarzane bez konwersji napisy nie są wyświetlane. ",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Strumień Bezpośredni",
   "Allows the server to copy compatible audio and video streams without converting them.": "Umożliwia serwerowi copiowanie kompatybilnych strumieni audio i wideo bez konwertowania.",
-  "At least one folder is required.": "Konieczny jest  co najmniej jeden folder. "
+  "At least one folder is required.": "Konieczny jest  co najmniej jeden folder. ",
+  "Now Playing": "Now Playing",
+  "on": "on",
+  "Search remote libraries is disabled.": "Search remote libraries is disabled.",
+  "myPlex is down for maintenance.": "myPlex is down for maintenance.",
+  "Transcoding": "Transcoding",
+  "No Transcode Session": "No Transcode Session",
+  "Transcode": "Transcode",
+  "throttled": "throttled"
 }

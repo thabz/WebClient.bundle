@@ -572,8 +572,16 @@
   "Agent Settings": "Agent Settings",
   "Agent Info": "Agent Info",
   "Widget Settings": "Widget Settings",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Sallii toistimen toistaa yhteensopivan median ilman konversiota. Useimmissa selaimissa mp4 videot on tuettu h264 ja AAC koodekeilla.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Suora toisto",
   "Allows the server to copy compatible audio and video streams without converting them.": "Sallii serverin kopioida yhteensopivat ääni ja video virrat ilman konvertointia.",
-  "At least one folder is required.": "Vaaditaan ainakin yksi kansio."
+  "At least one folder is required.": "Vaaditaan ainakin yksi kansio.",
+  "Now Playing": "Now Playing",
+  "on": "on",
+  "Search remote libraries is disabled.": "Search remote libraries is disabled.",
+  "myPlex is down for maintenance.": "myPlex is down for maintenance.",
+  "Transcoding": "Transcoding",
+  "No Transcode Session": "No Transcode Session",
+  "Transcode": "Transcode",
+  "throttled": "throttled"
 }

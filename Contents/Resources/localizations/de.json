@@ -553,7 +553,7 @@
   "Announcements": "Ankündigungen",
   "Select a Player": "Wiedergabegerät auswählen",
   "Maximize width": "Maximale Breite",
-  "Expand the dashboard to use the full width of the page.": "Vergrößere Dashboard auf volle Seitenbreite",
+  "Expand the dashboard to use the full width of the page.": "Vergrößere das Dashboard auf die volle Seitenbreite",
   "Widgets": "Widgets",
   "Adjust priority based on when the most recent video was watched": "Passe Priorität an, wenn das neueste Video gesehen wurde.",
   "Show wide thumbnails": "Zeige große Miniaturbilder",
@@ -572,8 +572,16 @@
   "Agent Settings": "Anbieter Einstellungen",
   "Agent Info": "Agenten Info",
   "Widget Settings": "Widget-Einstellungen",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Subtitles will not be included if a video is played directly.": "Erlaubt dem Player kompatible Medien ohne Umwandlung abzuspielen. In den meisten Browsern unterstützt DirectPlay .mp4-Videos mit .h264.Video und AAC-Audio. Untertitel werden bei DirectPlay nicht unterstützt.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Direct Stream",
   "Allows the server to copy compatible audio and video streams without converting them.": "Erlaubt es dem Server, kompatible Audio- und Video-Streams zu kopieren ohne diese zu konvertieren.",
-  "At least one folder is required.": "Mindestens ein Ordner muss ausgewählt werden."
+  "At least one folder is required.": "Mindestens ein Ordner muss ausgewählt werden.",
+  "Now Playing": "Now Playing",
+  "on": "on",
+  "Search remote libraries is disabled.": "Search remote libraries is disabled.",
+  "myPlex is down for maintenance.": "myPlex is down for maintenance.",
+  "Transcoding": "Transcoding",
+  "No Transcode Session": "No Transcode Session",
+  "Transcode": "Transcode",
+  "throttled": "throttled"
 }
