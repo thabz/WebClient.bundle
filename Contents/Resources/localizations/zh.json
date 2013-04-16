@@ -576,12 +576,13 @@
   "Direct Stream": "直接串流",
   "Allows the server to copy compatible audio and video streams without converting them.": "允许服务器传输未经转换的音频和视频流。",
   "At least one folder is required.": "请至少添加一个文件夹。",
-  "Now Playing": "Now Playing",
+  "Now Playing": "正在播放",
   "on": "on",
   "Search remote libraries is disabled.": "Search remote libraries is disabled.",
   "myPlex is down for maintenance.": "myPlex is down for maintenance.",
   "Transcoding": "Transcoding",
   "No Transcode Session": "No Transcode Session",
   "Transcode": "Transcode",
-  "throttled": "throttled"
+  "throttled": "throttled",
+  "Downloading": "Downloading"
 }

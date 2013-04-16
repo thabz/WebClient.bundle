@@ -576,12 +576,13 @@
   "Direct Stream": "Stream direta",
   "Allows the server to copy compatible audio and video streams without converting them.": "Permite ao servidor copiar streams áudio e vídeo compatíveis sem as converter.",
   "At least one folder is required.": "Pelo menos um diretório é necessário.",
-  "Now Playing": "Now Playing",
+  "Now Playing": "Reproduzindo Agora",
   "on": "on",
   "Search remote libraries is disabled.": "Search remote libraries is disabled.",
   "myPlex is down for maintenance.": "myPlex is down for maintenance.",
   "Transcoding": "Transcoding",
   "No Transcode Session": "No Transcode Session",
   "Transcode": "Transcode",
-  "throttled": "throttled"
+  "throttled": "throttled",
+  "Downloading": "Downloading"
 }

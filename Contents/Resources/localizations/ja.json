@@ -583,5 +583,6 @@
   "Transcoding": "Transcoding",
   "No Transcode Session": "No Transcode Session",
   "Transcode": "Transcode",
-  "throttled": "throttled"
+  "throttled": "throttled",
+  "Downloading": "Downloading"
 }
