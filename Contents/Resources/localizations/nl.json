@@ -581,8 +581,8 @@
   "Search remote libraries is disabled.": "Remote libraries doorzoeken is uitgeschakeld",
   "myPlex is down for maintenance.": "myPlex is uitgeschakeld in veband met onderhoud",
   "Transcoding": "Bezig met transcode",
-  "No Transcode Session": "No Transcode Session",
+  "No Transcode Session": "Geen transcodeer-sessie",
   "Transcode": "Transcode",
   "throttled": "throttled",
-  "Downloading": "Downloading"
+  "Downloading": "Bezig met downloaden"
 }

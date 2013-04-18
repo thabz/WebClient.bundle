@@ -427,14 +427,14 @@
   "Send anonymous usage data to Plex": "Send anonyme forbrugs data til Plex",
   "This helps us improve your experience (for example, to help us match movies and TV shows).": "Dette hjælper os til at forbedre din oplevelse (Som eks. hjælper os med at matche film og TV shows).",
   "Plex Media Server verbose logging": "Plex Medie Server verbose (Dybdegående) logging",
-  "Enable Plex Media Server verbose logging": "Aktiver Plex Medie Server verbose (dybdegående) logging",
+  "Enable Plex Media Server verbose logging": "Aktiver Plex Medie Server logging til detaljeret fejlsøgning",
   "Ask to add a login item for externally mounted drives": "Forlang login før der tilgåes eksterne drev",
-  "Plex Media Server debug logging": "Plex Medie Server verbose (dybdegående) logging",
-  "Enable Plex Media Server debug logging": "Aktiver Plex Medie Server verbose (dybdegående) logging",
+  "Plex Media Server debug logging": "Plex Medie Server logging til fejlsøgning",
+  "Enable Plex Media Server debug logging": "Aktiver Plex Medie Server logging til fejlsøgning",
   "Show a dock icon": "Vis et ikon i dock",
   "Update my library automatically": "Opdater mit bibliotek automatisk",
-  "Your library will be updated automatically when changes to library folders are detected": "Dit bibliotek vil blive opdateret automatisk, når ændringer detekteres i folderne",
-  "Weeks to look at for On Deck": "Uger tilbage i tiden hvor der gemmes under Igangværende",
+  "Your library will be updated automatically when changes to library folders are detected": "Dit bibliotek vil blive opdateret automatisk, når der sker ændringer i mapperne",
+  "Weeks to look at for On Deck": "Uger der gemmes under igangværende",
   "The number of recent weeks used as the window for On Deck": "Antallet af foregående uger brugt som vindue for Igangværende",
   "Library update interval": "Biblioteks opdaterings interval",
   "every 15 minutes": "hvert 15 minut",
@@ -584,5 +584,5 @@
   "No Transcode Session": "Ingen Transcode aktivitet",
   "Transcode": "Transcode",
   "throttled": "Forhøjet hastighed",
-  "Downloading": "Downloading"
+  "Downloading": "Henter"
 }
