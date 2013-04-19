@@ -572,7 +572,7 @@
   "Agent Settings": "Agentinställningar",
   "Agent Info": "Agent-info",
   "Widget Settings": "Widgetinställningar",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Tillåter spelaren att spela kompatibel media utan någon omkodning. I de flesta webbläsare stöds direktuppspelning av mp4 videor med h264 video och AAC ljud. Videor med undertexter kan inte spelas direkt.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Direktström",
   "Allows the server to copy compatible audio and video streams without converting them.": "Tillåter servern att kopiera kompatibel ljud- och videoström utan att konvertera dom.",
   "At least one folder is required.": "Minst en mapp krävs.",
@@ -584,5 +584,7 @@
   "No Transcode Session": "Ingen Omkodning",
   "Transcode": "Omkoda",
   "throttled": "strypt",
-  "Downloading": "Downloading"
+  "Downloading": "Downloading",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

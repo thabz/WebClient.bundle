@@ -572,7 +572,7 @@
   "Agent Settings": "Definições do agente",
   "Agent Info": "Informação do agente",
   "Widget Settings": "Definições do widget",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Permite ao reprodutor passar média compatível sem qualquer conversão. Na maioria dos browsers, o direct play suporta vídeos mp4 com codec de vídeo h264 e áudio AAC. Vídeos com legendas não podem ser reproduzidos directamente.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Direct Stream",
   "Allows the server to copy compatible audio and video streams without converting them.": "Permite ao servidor copiar streams áudio e vídeo compatíveis sem as converter.",
   "At least one folder is required.": "É necessária pelo menos uma directoria.",
@@ -584,5 +584,7 @@
   "No Transcode Session": "Sessão sem transcodificação",
   "Transcode": "Transcodificação",
   "throttled": "modulado",
-  "Downloading": "A descarregar"
+  "Downloading": "A descarregar",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

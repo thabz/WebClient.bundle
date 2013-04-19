@@ -572,7 +572,7 @@
   "Agent Settings": "Поставке Агента",
   "Agent Info": "Информ. о Агенту",
   "Widget Settings": "Поставке виџета",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Омогућава плејеру да репродукује садржај без претходне конверзије. У већини прегледача, директна репродукција подржава mp4 филмове са h264 записом и AAC звуком. Филмове са титловима  није могуће директно репродуковати.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Директни запис",
   "Allows the server to copy compatible audio and video streams without converting them.": "Омогућава серверу да копира компатибилан звучни и видео запис без њихове конверзије.",
   "At least one folder is required.": "Потребна је барем једна фасцикла.",
@@ -584,5 +584,7 @@
   "No Transcode Session": "Нема транскôдоване сесије",
   "Transcode": "Транскôдуј",
   "throttled": "ограничено",
-  "Downloading": "Преузимање"
+  "Downloading": "Преузимање",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

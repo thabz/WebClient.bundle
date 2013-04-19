@@ -572,7 +572,7 @@
   "Agent Settings": "Nastavenia agenta.",
   "Agent Info": "Informácie o agentovi.",
   "Widget Settings": "Widget nastavenia",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Umožňuje prehrávaču prehrávať kompatibilné médiá bez potreby konverzie. V väčšine prehliadačov priame prehrávanie (direct play) podporuje mp4 videá s h264 kodekom a AAC audio. Videá s titulkami nemôžu byť prehrávané priamo.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Priamy stream",
   "Allows the server to copy compatible audio and video streams without converting them.": "Umožňuje serveru kopírovať kompatibilné audio a video streamy bez potreby konvertovania",
   "At least one folder is required.": "Vyžaduje sa aspoň jedna zložka",
@@ -584,5 +584,7 @@
   "No Transcode Session": "Žiadny transkód session",
   "Transcode": "Transkód",
   "throttled": "priškrtený",
-  "Downloading": "Sťahovanie"
+  "Downloading": "Sťahovanie",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

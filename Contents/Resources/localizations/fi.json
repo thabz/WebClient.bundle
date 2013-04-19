@@ -572,7 +572,7 @@
   "Agent Settings": "Agentti Asetukset",
   "Agent Info": "Agentti info",
   "Widget Settings": "Widget Asetukset",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Suora toisto",
   "Allows the server to copy compatible audio and video streams without converting them.": "Sallii serverin kopioida yhteensopivat ääni ja video virrat ilman konvertointia.",
   "At least one folder is required.": "Vaaditaan ainakin yksi kansio.",
@@ -584,5 +584,7 @@
   "No Transcode Session": "No Transcode Session",
   "Transcode": "Transcode",
   "throttled": "throttled",
-  "Downloading": "Ladataan"
+  "Downloading": "Ladataan",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

@@ -572,7 +572,7 @@
   "Agent Settings": "代理设置",
   "Agent Info": "代理信息",
   "Widget Settings": "小工具设置",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "直接串流",
   "Allows the server to copy compatible audio and video streams without converting them.": "允许服务器传输未经转换的音频和视频流。",
   "At least one folder is required.": "请至少添加一个文件夹。",
@@ -584,5 +584,7 @@
   "No Transcode Session": "No Transcode Session",
   "Transcode": "Transcode",
   "throttled": "throttled",
-  "Downloading": "Downloading"
+  "Downloading": "Downloading",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

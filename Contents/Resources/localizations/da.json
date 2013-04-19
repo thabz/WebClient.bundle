@@ -572,7 +572,7 @@
   "Agent Settings": "Agent Indstillinger",
   "Agent Info": "Agent Info",
   "Widget Settings": "Widget Indstillinger",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Tillader afspilleren at spille kompatible medier uden nogen konvertering. De fleste browsere understøtter  Direct Play af mp4 videoer med H264 video og AAC-lyd. Videoer med undertekster kan ikke afspilles direkte.",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Direct Stream",
   "Allows the server to copy compatible audio and video streams without converting them.": "Tillader at serveren kopierer kompatible audio- og video-streams uden at konvertere dem.",
   "At least one folder is required.": "Mindst én mappe er påkrævet.",
@@ -584,5 +584,7 @@
   "No Transcode Session": "Ingen Transcode aktivitet",
   "Transcode": "Transcode",
   "throttled": "Forhøjet hastighed",
-  "Downloading": "Henter"
+  "Downloading": "Henter",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }

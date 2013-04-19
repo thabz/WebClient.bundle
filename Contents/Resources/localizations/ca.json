@@ -572,7 +572,7 @@
   "Agent Settings": "Agents Configuració",
   "Agent Info": "Agent Info",
   "Widget Settings": "Configuració del Giny",
-  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports mp4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Permet al reproductor reproduir mitjans compatibles sense cap tipus de conversió. En la majoria de navegadors, la reproducció directa suporta  .mp4 amb vídeo H264 i audio ACC. Els vídeos amb subtítols no poden ser reproduïts sense conversió.\n",
+  "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.": "Allows the player to play compatible media without any conversion. In most browsers, direct play supports MP4 videos with h264 video and AAC audio. Videos with subtitles cannot be played directly.",
   "Direct Stream": "Transmissió Directe",
   "Allows the server to copy compatible audio and video streams without converting them.": "Permet al servidor per copiar àudio compatible i seqüències de vídeo sense haver de convertir-los.",
   "At least one folder is required.": "Com a mínim  es requereix una carpeta.",
@@ -584,5 +584,7 @@
   "No Transcode Session": "No hi ha sessió de transcodificació",
   "Transcode": "Transcodificar",
   "throttled": "accelerat",
-  "Downloading": "Descarregant"
+  "Downloading": "Descarregant",
+  "Allow Direct Play of AC3 Audio": "Allow Direct Play of AC3 Audio",
+  "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited.": "Allow MP4 videos with AC3 audio to be played directly. Browser support for AC3 audio is limited."
 }
