@@ -607,7 +607,7 @@
   "then": "da",
   "or": "eller",
   "Open Keyboard Shortcuts": "Åben tastatur genveje",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Hop tilbage / Luk vindue / Luk Foto afspiller",
   "Toggle Sidebar": "Aktiver/deaktiver sidebar",
   "Navigate to Home": "Naviger til Hjem",
   "Navigate to Settings": "Naviger til Indstillinger",
@@ -676,6 +676,6 @@
   "Select Items": "Valgte emner",
   "Deselect Items": "Fravælg emner",
   "Show": "Serie",
-  "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "Nothing is currently being watched.": "Der bliver ikke vist noget i øjeblikket",
+  "{1} started watching {2} on {3}.": "{1} startede afspilning {2} på {3}."
 }

@@ -607,7 +607,7 @@
   "then": "alors",
   "or": "ou",
   "Open Keyboard Shortcuts": "Afficher les raccourcis clavier",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Revenir / Fermer la boîte de dialogue / Fermer la visionneuse de photos",
   "Toggle Sidebar": "Afficher/masquer la barre latérale",
   "Navigate to Home": "Aller à l'accueil",
   "Navigate to Settings": "Accéder aux réglages",
@@ -676,6 +676,6 @@
   "Select Items": "Sélection multiple",
   "Deselect Items": "Désélectionner",
   "Show": "Série",
-  "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "Nothing is currently being watched.": "Rein n'est en cours de lecture actuellement",
+  "{1} started watching {2} on {3}.": "{1} a commencé à regarder {2} sur {3}."
 }

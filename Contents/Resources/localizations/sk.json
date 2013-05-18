@@ -607,7 +607,7 @@
   "then": "potom",
   "or": "alebo",
   "Open Keyboard Shortcuts": "Otvoriť klávesové skratky",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Prejsť späť / Zavrieť dialógové okno / Zavrieť prehliadač fotografií",
   "Toggle Sidebar": "Prepnúť sidebar",
   "Navigate to Home": "Prejsť na domov",
   "Navigate to Settings": "Prejsť na nastavenia",
@@ -676,6 +676,6 @@
   "Select Items": "Vybrať položky",
   "Deselect Items": "Odznačiť položky",
   "Show": "Ukázať",
-  "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "Nothing is currently being watched.": "Nič sa práve nepozerá.",
+  "{1} started watching {2} on {3}.": "{1} začal pozerať {2} o {3}."
 }

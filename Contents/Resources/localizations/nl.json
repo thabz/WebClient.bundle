@@ -607,7 +607,7 @@
   "then": "dan",
   "or": "of",
   "Open Keyboard Shortcuts": "Open sneltoetsen",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Navigeer Terug / Modaalvenster sluiten / Foto viewer sluiten",
   "Toggle Sidebar": "Sidebar aan/uit",
   "Navigate to Home": "Navigeer naar thuis",
   "Navigate to Settings": "Navigeer naar instellingen",
@@ -676,6 +676,6 @@
   "Select Items": "Selecteer items",
   "Deselect Items": "Deselecteer items",
   "Show": "Serie",
-  "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "Nothing is currently being watched.": "Er wordt niets gekeken",
+  "{1} started watching {2} on {3}.": "{1} kijkt nu naar {2} op {3}."
 }

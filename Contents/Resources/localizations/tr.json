@@ -607,7 +607,7 @@
   "then": "o zaman",
   "or": "veya",
   "Open Keyboard Shortcuts": "Açık Klavye Kısayolu",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Geri Gidin/ Pencereyi Kapat / Fotoğraf Görüntüleyici Kapat",
   "Toggle Sidebar": "Kenar Çubuğu Geçişi",
   "Navigate to Home": "Anasayfa",
   "Navigate to Settings": "Ayarlar",
@@ -676,6 +676,6 @@
   "Select Items": "Öğeler'i seçin",
   "Deselect Items": "Ögelerin Seçimini Kaldırın",
   "Show": "Göster",
-  "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "Nothing is currently being watched.": "Şu anda hiçbir şey takip edilmiyor.",
+  "{1} started watching {2} on {3}.": "{1}  izlemeye başlandı {2} üzerinde {3}."
 }
