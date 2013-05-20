@@ -677,5 +677,6 @@
   "Deselect Items": "Abgewählte Elemente",
   "Show": "Serie",
   "Nothing is currently being watched.": "Zurzeit wird nichts geschaut.",
-  "{1} started watching {2} on {3}.": "{1} hat angefangen {2} zu schauen auf  {3}."
+  "{1} started watching {2} on {3}.": "{1} hat angefangen {2} zu schauen auf  {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

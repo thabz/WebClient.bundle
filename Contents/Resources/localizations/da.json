@@ -677,5 +677,6 @@
   "Deselect Items": "Fravælg emner",
   "Show": "Serie",
   "Nothing is currently being watched.": "Der bliver ikke vist noget i øjeblikket",
-  "{1} started watching {2} on {3}.": "{1} startede afspilning {2} på {3}."
+  "{1} started watching {2} on {3}.": "{1} startede afspilning {2} på {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

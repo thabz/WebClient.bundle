@@ -677,5 +677,11 @@
   "Deselect Items": "Deselect Items",
   "Show": "Show",
   "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server",
+  "second": "second",
+  "seconds": "seconds",
+  "minute": "minute",
+  "min": "min",
+  "hr": "hr"
 }

@@ -677,5 +677,6 @@
   "Deselect Items": "Odznačiť položky",
   "Show": "Ukázať",
   "Nothing is currently being watched.": "Nič sa práve nepozerá.",
-  "{1} started watching {2} on {3}.": "{1} začal pozerať {2} o {3}."
+  "{1} started watching {2} on {3}.": "{1} začal pozerať {2} o {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

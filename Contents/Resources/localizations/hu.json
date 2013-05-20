@@ -607,7 +607,7 @@
   "then": "aztán",
   "or": "vagy",
   "Open Keyboard Shortcuts": "Billentyűparancsok megnyitása",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Ugrás vissza / Modal bezárása / Képnéző bezárása",
   "Toggle Sidebar": "Oldalsáv váltása",
   "Navigate to Home": "Ugrás a kezdőlapra",
   "Navigate to Settings": "Ugrás a beállításokba",
@@ -676,6 +676,7 @@
   "Select Items": "Elemek kiválasztása",
   "Deselect Items": "Elemek törlése",
   "Show": "Mutat",
-  "Nothing is currently being watched.": "Nothing is currently being watched.",
-  "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}."
+  "Nothing is currently being watched.": "Nincs aktuálisan nézett tartalom.",
+  "{1} started watching {2} on {3}.": "A(z) {1} nézésének megkezdése {2} a(z) {3}-on.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

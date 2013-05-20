@@ -343,7 +343,7 @@
   "Friends are currently unavailable.": "Aucun ami n'est actuellement disponible.",
   "Recommend": "Recommander",
   "Share": "Partager",
-  "Select the correct {1} from the list below": "Sélectionnez le {1} correct de la liste suivante",
+  "Select the correct {1} from the list below": "Sélectionnez le média correct dans la liste suivante",
   "Searching for possible matches...": "Recherche des correspondances possibles...",
   "No matches found": "Aucune correspondance n'a été trouvée",
   "Search using": "Rechercher en utilisant",
@@ -399,7 +399,7 @@
   "Searching for artwork...": "Recherche d'illustrations...",
   "No artwork found": "Pas d'illustrations trouvées",
   "Select Artwork": "Choisir une illustration",
-  "choose an image": "Choisissez une image",
+  "choose an image": "Choisir une image",
   "drag and drop": "Glisser-déposer",
   "enter a url": "Entrer une URL",
   "Uploading artwork...": "Téléchargement de l'illustration",
@@ -676,6 +676,7 @@
   "Select Items": "Sélection multiple",
   "Deselect Items": "Désélectionner",
   "Show": "Série",
-  "Nothing is currently being watched.": "Rein n'est en cours de lecture actuellement",
-  "{1} started watching {2} on {3}.": "{1} a commencé à regarder {2} sur {3}."
+  "Nothing is currently being watched.": "Aucune lecture en cours.",
+  "{1} started watching {2} on {3}.": "{1} a commencé à regarder {2} sur {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

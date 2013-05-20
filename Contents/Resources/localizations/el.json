@@ -631,7 +631,7 @@
   "Seek Forward (10 seconds)": "Πάνε μπροστά (10 δευτερόλεπτα)",
   "Step Backward (10%)": "Πάνε Πίσω (10%)",
   "Step Forward (10%)": "Πάνε Μπροστά (10%)",
-  "Skip to Previous Track / Photo": "Πάνε στο Προϊγούμενο Κομμάτι / Φωτογραφία",
+  "Skip to Previous Track / Photo": "Πάνε στο Προηγούμενο Κομμάτι / Φωτογραφία",
   "Skip to Next Track / Photo": "Πάνε στο Επόμενο Κομμάτι / Φωτογραφία",
   "Clicks": "Κλικ",
   "Trigger Deep Scan of Section": "Έναρξη Σάρωσης σε βάθος της ενότητας",
@@ -677,5 +677,6 @@
   "Deselect Items": "Αποεπιλογή αντικειμένων",
   "Show": "Εκπομπή",
   "Nothing is currently being watched.": "Δεν προβάλετε τίποτα επί του παρόντος.",
-  "{1} started watching {2} on {3}.": "{1} προβάλει {2} στο {3}."
+  "{1} started watching {2} on {3}.": "{1} προβάλει {2} στο {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

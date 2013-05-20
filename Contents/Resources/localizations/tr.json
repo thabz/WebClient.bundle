@@ -677,5 +677,6 @@
   "Deselect Items": "Ögelerin Seçimini Kaldırın",
   "Show": "Göster",
   "Nothing is currently being watched.": "Şu anda hiçbir şey takip edilmiyor.",
-  "{1} started watching {2} on {3}.": "{1}  izlemeye başlandı {2} üzerinde {3}."
+  "{1} started watching {2} on {3}.": "{1}  izlemeye başlandı {2} üzerinde {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

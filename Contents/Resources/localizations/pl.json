@@ -607,7 +607,7 @@
   "then": "wtedy",
   "or": "lub",
   "Open Keyboard Shortcuts": "Otwórz Skróty Klawiaturowe",
-  "Navigate Back / Close Modal / Close Photo Viewer": "Navigate Back / Close Modal / Close Photo Viewer",
+  "Navigate Back / Close Modal / Close Photo Viewer": "Wstecz / Zamknij Okno / Zamknij Przeglądarkę Zdjęć",
   "Toggle Sidebar": "Przełącz Panel Boczny",
   "Navigate to Home": "Przejdź do strony Domowej",
   "Navigate to Settings": "Przejdź do Ustawień",
@@ -677,5 +677,6 @@
   "Deselect Items": "Odznacz Elementy",
   "Show": "Pokaż",
   "Nothing is currently being watched.": "Nic nie jest obecnie oglądane.",
-  "{1} started watching {2} on {3}.": "{1} zaczął oglądać {2} na {3}"
+  "{1} started watching {2} on {3}.": "{1} zaczął oglądać {2} na {3}",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }

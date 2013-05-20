@@ -677,5 +677,6 @@
   "Deselect Items": "Deselecteer items",
   "Show": "Serie",
   "Nothing is currently being watched.": "Er wordt niets gekeken",
-  "{1} started watching {2} on {3}.": "{1} kijkt nu naar {2} op {3}."
+  "{1} started watching {2} on {3}.": "{1} kijkt nu naar {2} op {3}.",
+  "myPlex could not reach your server": "myPlex could not reach your server"
 }
