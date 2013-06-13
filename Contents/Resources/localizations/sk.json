@@ -476,7 +476,7 @@
   "DLNA client preferences": "Nastavenia klienta DLNA",
   "Client-specific configuration settings for the DLNA server": "Špecifické nastavenia konfigurácie DLNA servera pre klienta",
   "DLNA default protocol info": "Aktuálne info o DLNA protokole",
-  "Protocol info string used in GetProtocolInfo responses by the DLNA server": "Informačný protokol používaný v GetProtocolInfo pre odpoveď DLNA serveru.",
+  "Protocol info string used in GetProtocolInfo responses by the DLNA server": "Informačný protokol používaný v GetProtocolInfo odpovedá na DLNA server",
   "DLNA media renderer discovery interval": "DLNA media renderer prehľadávací interval",
   "Number of seconds between DLNA media renderer discovery requests": "Počet sekúnd medzi DLNA media renderer požiadavkami na prehľadávanie",
   "DLNA enabled": "DLNA povolené",
@@ -658,6 +658,7 @@
   "photos": "fotografie",
   "home movies": "domáce videá",
   "Recently Aired": "Nedávno vysielané",
+  "Recently Viewed": "Nedávno prezerané",
   "Recently Released": "Nedávno vydané",
   "Episode Duration": "Dĺžka epizódy",
   "Writer": "Autor",
@@ -678,5 +679,10 @@
   "Show": "Ukázať",
   "Nothing is currently being watched.": "Nič sa práve nepozerá.",
   "{1} started watching {2} on {3}.": "{1} začal pozerať {2} o {3}.",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "myPlex nemôže dosiahnúť na váš server",
+  "second": "sekunda",
+  "seconds": "sekundy",
+  "minute": "minúta",
+  "min": "min",
+  "hr": "hr"
 }

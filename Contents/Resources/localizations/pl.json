@@ -658,6 +658,7 @@
   "photos": "zdjęcia",
   "home movies": "filmy domowe",
   "Recently Aired": "Ostatnio Emitowane",
+  "Recently Viewed": "Ostatnio Oglądane",
   "Recently Released": "Ostatnio Wydane",
   "Episode Duration": "Czas Trwania Odcinka",
   "Writer": "Scenariusz",
@@ -678,5 +679,10 @@
   "Show": "Pokaż",
   "Nothing is currently being watched.": "Nic nie jest obecnie oglądane.",
   "{1} started watching {2} on {3}.": "{1} zaczął oglądać {2} na {3}",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "myPlex nie odnalazł Twojego serwera",
+  "second": "sekunda",
+  "seconds": "sekund",
+  "minute": "minuta",
+  "min": "min.",
+  "hr": "godz."
 }

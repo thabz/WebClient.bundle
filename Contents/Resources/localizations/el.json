@@ -658,6 +658,7 @@
   "photos": "φωτογραφίες",
   "home movies": "προσωπικές  ταινίες  ",
   "Recently Aired": "Πρόσφατες κυκλοφορίες",
+  "Recently Viewed": "Recently Viewed",
   "Recently Released": "Κυκλοφόρησε πρόσφατα",
   "Episode Duration": "Διάρκεια επεισοδίου",
   "Writer": "Συγγραφέας",
@@ -678,5 +679,10 @@
   "Show": "Εκπομπή",
   "Nothing is currently being watched.": "Δεν προβάλετε τίποτα επί του παρόντος.",
   "{1} started watching {2} on {3}.": "{1} προβάλει {2} στο {3}.",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "Αδύνατος ο εντοπισμός του διακομιστή σας από το myPlex",
+  "second": "δευτερόλεπτο",
+  "seconds": "δευτερόλεπτα",
+  "minute": "λεπτό",
+  "min": "λεπ",
+  "hr": "ω"
 }

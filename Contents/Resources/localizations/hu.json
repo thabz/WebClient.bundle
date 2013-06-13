@@ -658,6 +658,7 @@
   "photos": "képek",
   "home movies": "házi filmek",
   "Recently Aired": "Nemrég sugárzott",
+  "Recently Viewed": "Utoljára megtekintett",
   "Recently Released": "Nemrég megjelent",
   "Episode Duration": "Epizód időtartam",
   "Writer": "Író",
@@ -678,5 +679,10 @@
   "Show": "Mutat",
   "Nothing is currently being watched.": "Nincs aktuálisan nézett tartalom.",
   "{1} started watching {2} on {3}.": "A(z) {1} nézésének megkezdése {2} a(z) {3}-on.",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "A myPlex nem tudja elérni az Ön szerverét",
+  "second": "másodperc",
+  "seconds": "másodpercek",
+  "minute": "perc",
+  "min": "p",
+  "hr": "ó"
 }

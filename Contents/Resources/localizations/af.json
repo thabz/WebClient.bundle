@@ -658,6 +658,7 @@
   "photos": "Foto's",
   "home movies": "home movies",
   "Recently Aired": "Recently Aired",
+  "Recently Viewed": "Recently Viewed",
   "Recently Released": "Recently Released",
   "Episode Duration": "Episode Duration",
   "Writer": "Writer",
@@ -678,5 +679,10 @@
   "Show": "Wys",
   "Nothing is currently being watched.": "Nothing is currently being watched.",
   "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}.",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "myPlex could not reach your server",
+  "second": "second",
+  "seconds": "seconds",
+  "minute": "minute",
+  "min": "min",
+  "hr": "hr"
 }

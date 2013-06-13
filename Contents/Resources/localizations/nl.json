@@ -658,6 +658,7 @@
   "photos": "foto's",
   "home movies": "eigen films",
   "Recently Aired": "Pas uitgezonden",
+  "Recently Viewed": "Recent gekeken",
   "Recently Released": "Pas uitgekomen",
   "Episode Duration": "Duur van aflevering",
   "Writer": "Schrijver",
@@ -678,5 +679,10 @@
   "Show": "Serie",
   "Nothing is currently being watched.": "Er wordt niets gekeken",
   "{1} started watching {2} on {3}.": "{1} kijkt nu naar {2} op {3}.",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "MyPlex kon uw server niet bereiken",
+  "second": "seconde",
+  "seconds": "seconden",
+  "minute": "minuut",
+  "min": "min",
+  "hr": "Uur"
 }

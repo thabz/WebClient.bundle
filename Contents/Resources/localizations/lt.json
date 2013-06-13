@@ -414,7 +414,7 @@
   "This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead.": "Pradėkite, pavadindami jūsų Plex serverį ,kad lengvai rastumėte jį tinkle. Jei paliksite laukelį tuščia, jūsų kompiuterio pavadinimas bus panaudotas.",
   "Send anonymous usage data to Plex": "Siųsti anonimiškus duomenys į Plex",
   "This helps us improve your experience (for example, to help us match movies and TV shows).": "This helps us improve your experience (for example, to help us match movies and TV shows).",
-  "Plex Media Server verbose logging": "Plex Media Server verbose logging",
+  "Plex Media Server verbose logging": "Plex Media Serverio žodinės ataskaitos",
   "Enable Plex Media Server verbose logging": "Enable Plex Media Server verbose logging",
   "Ask to add a login item for externally mounted drives": "Ask to add a login item for externally mounted drives",
   "Plex Media Server debug logging": "Plex Media Server debug logging",
@@ -567,7 +567,7 @@
   "on": "on",
   "Search remote libraries is disabled.": "Search remote libraries is disabled.",
   "myPlex is down for maintenance.": "myPlex is down for maintenance.",
-  "Transcoding": "Transcoding",
+  "Transcoding": "Perkoduojama",
   "No Transcode Session": "No Transcode Session",
   "Transcode": "Transcode",
   "throttled": "throttled",
@@ -658,6 +658,7 @@
   "photos": "photos",
   "home movies": "home movies",
   "Recently Aired": "Recently Aired",
+  "Recently Viewed": "Recently Viewed",
   "Recently Released": "Recently Released",
   "Episode Duration": "Episode Duration",
   "Writer": "Writer",
@@ -678,5 +679,10 @@
   "Show": "Show",
   "Nothing is currently being watched.": "Nothing is currently being watched.",
   "{1} started watching {2} on {3}.": "{1} started watching {2} on {3}.",
-  "myPlex could not reach your server": "myPlex could not reach your server"
+  "myPlex could not reach your server": "myPlex could not reach your server",
+  "second": "second",
+  "seconds": "seconds",
+  "minute": "minute",
+  "min": "min",
+  "hr": "hr"
 }
