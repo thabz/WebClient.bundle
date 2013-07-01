@@ -14,7 +14,7 @@
   "Debug": "תיקון באגים",
   "Debug Level": "רמת איתור התקלות",
   "Already have an account?": "כבר יש לך חשבון?",
-  "On Deck": "בקנה",
+  "On Deck": "בצפייה",
   "Update": "עדכון",
   "Profile": "פרופיל",
   "Confirm Password": "אישור סיסמה",
@@ -379,7 +379,7 @@
   "Always Use Highest Resolution": "השתמש/י תמיד ברזולוציה הגבוהה ביותר",
   "When multiple resolutions are available for a video, automatically use the highest possible resolution.": "כשיש מספר רזולוציות זמינות לסרט וידאו, השתמש/י אוטומטית ברזולוציה הגבוהה ביותר האפשרית.",
   "Activity": "פעילות",
-  "Sync": "Sync",
+  "Sync": "סינכרון",
   "Sync to Device": "סנכרן/י למכשיר",
   "Stop Syncing": "עצור/י סינכרון",
   "Are you sure you want to stop syncing {1}?": "האם את/ה בטוח/ה שברצונך להפסיק לסנכרן את {1}?",
@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "מאפשר לשרת להעתיק קבצי אודיו ווידאו תואמים מבלי להמיר אותם.",
   "At least one folder is required.": "נדרשת לפחות תיקייה אחת.",
   "Now Playing": "מתנגן כעת",
-  "on": "ב",
+  "Playing on": "מנגן ב- ",
+  "Paused on": "מושהה ב- ",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "חיפוש בספריות מרוחקות מכובה.",
   "myPlex is down for maintenance.": "myPlex אינו זמין לצורך עבודות תחזוקה.",
   "Transcoding": "מקודד",
@@ -684,5 +686,7 @@
   "seconds": "שניות",
   "minute": "דקה",
   "min": "דקות",
-  "hr": "שעות"
+  "hr": "שעות",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

@@ -540,7 +540,7 @@
   "Announcements": "Ankündigungen",
   "Select a Player": "Wiedergabegerät auswählen",
   "Maximize width": "Maximale Breite",
-  "Expand the dashboard to use the full width of the page.": "Vergrößere Dashboard auf volle Seitenbreite",
+  "Expand the dashboard to use the full width of the page.": "Vergrößere das Dashboard auf die volle Seitenbreite",
   "Widgets": "Widgets",
   "Adjust priority based on when the most recent video was watched": "Passe Priorität an, wenn das neueste Video gesehen wurde.",
   "Show wide thumbnails": "Zeige große Miniaturbilder",
@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Erlaubt es dem Server, kompatible Audio- und Video-Streams zu kopieren ohne diese zu konvertieren.",
   "At least one folder is required.": "Mindestens ein Ordner muss ausgewählt werden.",
   "Now Playing": "Aktuelle Wiedergabe",
-  "on": "Ein",
+  "Playing on": "Wiedergabe bei ",
+  "Paused on": "Gestoppt bei",
+  "Buffering on": "Pufferspeicher füllen bei",
   "Search remote libraries is disabled.": "Suche von entfernten Bibliotheken ist abgeschaltet.",
   "myPlex is down for maintenance.": "myPlex ist wegen Wartungsarbeiten nicht erreichbar.",
   "Transcoding": "Transkodierung",
@@ -658,7 +660,7 @@
   "photos": "Fotos",
   "home movies": "Eigene Filme",
   "Recently Aired": "Kürzlich gesendet",
-  "Recently Viewed": "Recently Viewed",
+  "Recently Viewed": "Zuletzt angesehen",
   "Recently Released": "Kürzlich erschienen",
   "Episode Duration": "Dauer der Episode",
   "Writer": "Autor",
@@ -684,5 +686,7 @@
   "seconds": "Sekunden",
   "minute": "Minute",
   "min": "Min.",
-  "hr": "Std."
+  "hr": "Std.",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

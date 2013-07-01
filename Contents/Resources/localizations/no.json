@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Tillater serveren å kopiere tilgjengelig lyd og video streaming uten konvertering",
   "At least one folder is required.": "Minst én mappe er obligatorisk",
   "Now Playing": "Spilles nå",
-  "on": "På",
+  "Playing on": "Playing on",
+  "Paused on": "Paused on",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "Søk i eksterne biblioteker er deaktivert.",
   "myPlex is down for maintenance.": "myPlex er nede for vedlikehold",
   "Transcoding": "Transkoding",
@@ -684,5 +686,7 @@
   "seconds": "seconds",
   "minute": "minute",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Umożliwia serwerowi copiowanie kompatybilnych strumieni audio i wideo bez konwertowania.",
   "At least one folder is required.": "Konieczny jest  co najmniej jeden folder. ",
   "Now Playing": "Teraz odtwarzane",
-  "on": "wł.",
+  "Playing on": "Tryb Odtwarzania",
+  "Paused on": "Tryb Pauzy",
+  "Buffering on": "Tryb Buforowania",
   "Search remote libraries is disabled.": "Przeszukiwanie bibliotek zdalnych jest nieaktywne.",
   "myPlex is down for maintenance.": "Usługa myPlex została wyłączona na czas konserwacji.",
   "Transcoding": "Transkodowanie",
@@ -684,5 +686,7 @@
   "seconds": "sekund",
   "minute": "minuta",
   "min": "min.",
-  "hr": "godz."
+  "hr": "godz.",
+  "Show Movie Unwatched Icons": "Wyświetlaj ikony Film Nieobejrzany",
+  "Show unwatched icons in movie lists.": "Wyświetlaj na liście filmów  ikonę Nieobejrzany."
 }

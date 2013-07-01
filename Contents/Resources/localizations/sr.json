@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Омогућава серверу да копира компатибилан звучни и видео запис без њихове конверзије.",
   "At least one folder is required.": "Потребна је барем једна фасцикла.",
   "Now Playing": "Тренутна репродукција",
-  "on": "на",
+  "Playing on": "Репродукује се на",
+  "Paused on": "Паузирано на",
+  "Buffering on": "Предмеморисање на",
   "Search remote libraries is disabled.": "Онемогућена је претрага удаљених библиотека.",
   "myPlex is down for maintenance.": "myPlex је искључен због одржавања.",
   "Transcoding": "Транскôдовање",
@@ -684,5 +686,7 @@
   "seconds": "секунди",
   "minute": "минут",
   "min": "мин.",
-  "hr": "ч"
+  "hr": "ч",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

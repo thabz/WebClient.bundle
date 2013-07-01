@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "서버가 호환가능한  오디오와 비디오는 변환없이 복사하도록 허용.",
   "At least one folder is required.": "적어도 폴더 하나는 필요합니다.",
   "Now Playing": "지금 재생중",
-  "on": "에",
+  "Playing on": "Playing on",
+  "Paused on": "Paused on",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "원격 라이브러리 검색이 불가능합니다.",
   "myPlex is down for maintenance.": "myPlex가 점검으로 인해 중지되었습니다.",
   "Transcoding": "변환",
@@ -684,5 +686,7 @@
   "seconds": "초",
   "minute": "분",
   "min": "분",
-  "hr": "시간"
+  "hr": "시간",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

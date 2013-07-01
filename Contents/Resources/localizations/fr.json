@@ -86,7 +86,7 @@
   "Resume from {1}": "Reprendre à {1}",
   "Aspect Ratio": "Ratio d'affichage",
   "File": "Fichier",
-  "Forces a download of fresh media information from the Internet. This can take a long time. Any locked fields are not modified.": "Forcer le téléchargement de nouvelles métadonnées à partir d'Internet. Cela peut durer longtemps. Les champs verrouillés ne seront pas modifiés ",
+  "Forces a download of fresh media information from the Internet. This can take a long time. Any locked fields are not modified.": "Forcer un téléchargement de nouvelles métadonnées sur Internet. Cela peut durer longtemps. Les champs verrouillés ne seront pas modifiés ",
   "Video Resolution": "Résolution de la vidéo",
   "Unavailable": "Indisponible",
   "Signed in as": "Connecté en tant que",
@@ -533,7 +533,7 @@
   "List": "Liste",
   "By Folder": "Par dossier",
   "Add Channel": "Ajouter une chaîne",
-  "The trash for all sections was emptied.": "La corbeille pour toutes les sections a été vidée.",
+  "The trash for all sections was emptied.": "La corbeille a été vidée pour toutes les sections .",
   "Directory Settings": "Réglages du répertoire",
   "Play Theme Music": "Jouer les thèmes musicaux",
   "Automatically play theme music in the background when available.": "Joue automatiquement les fonds musicaux quand disponibles (par ex. le générique d'une série quand vous explorez celle-ci).",
@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Permet au serveur de copier les flux audio et vidéo compatibles sans les convertir.",
   "At least one folder is required.": "Au moins un dossier est requis.",
   "Now Playing": "Lecture en cours",
-  "on": "On",
+  "Playing on": "En cours de lecture sur",
+  "Paused on": "Arreté sur",
+  "Buffering on": "Mise en memoire tampon sur",
   "Search remote libraries is disabled.": "La recherche de médiathèque distante est désactivée.",
   "myPlex is down for maintenance.": "myPlex est indisponible pour cause de maintenance.",
   "Transcoding": "Transcodage",
@@ -684,5 +686,7 @@
   "seconds": "secondes",
   "minute": "minute",
   "min": "min.",
-  "hr": "H"
+  "hr": "H",
+  "Show Movie Unwatched Icons": "Afficher les icones \"Film non visionné\"",
+  "Show unwatched icons in movie lists.": "Afficher l'icone \"Film non visionné\" dans les listes de films."
 }

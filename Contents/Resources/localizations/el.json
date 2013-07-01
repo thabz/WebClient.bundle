@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Επιτρέπει στον διακομιστή να αντιγράφει συμβατές ροές ήχου και βίντεο χωρίς να τις μετατρέπει.",
   "At least one folder is required.": "Απαραίτητος τουλάχιστον ένας φάκελος.",
   "Now Playing": "Παίζει τώρα",
-  "on": "ενεργό",
+  "Playing on": "Αναπαραγωγή σε",
+  "Paused on": "Παύση σε",
+  "Buffering on": "Φόρτωση σε",
   "Search remote libraries is disabled.": "Η Αναζήτηση Απομακρυσμένης Βιβλιοθήκης είναι απενεργοποιημένη.",
   "myPlex is down for maintenance.": "Το myPlex είναι εκτός σύνδεσης λόγω συντήρησης.",
   "Transcoding": "Μετατροπή",
@@ -658,7 +660,7 @@
   "photos": "φωτογραφίες",
   "home movies": "προσωπικές  ταινίες  ",
   "Recently Aired": "Πρόσφατες κυκλοφορίες",
-  "Recently Viewed": "Recently Viewed",
+  "Recently Viewed": "Προβλήθηκαν πρόσφατα",
   "Recently Released": "Κυκλοφόρησε πρόσφατα",
   "Episode Duration": "Διάρκεια επεισοδίου",
   "Writer": "Συγγραφέας",
@@ -684,5 +686,7 @@
   "seconds": "δευτερόλεπτα",
   "minute": "λεπτό",
   "min": "λεπ",
-  "hr": "ω"
+  "hr": "ω",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

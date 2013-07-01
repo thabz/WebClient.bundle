@@ -263,11 +263,11 @@
   "There was a problem marking {1} as watched.": "Během označení {1} jako shlédnuté se vyskytl problém.",
   "There was a problem matching this media.": "Během rozpoznávání tohoto média se vyskytl problém.",
   "No matches were found using this agent.": "Pomocí této služby nebyla nalezena žádná přiřazení.",
-  "There was a problem looking for matches.": "There was a problem looking for matches.",
+  "There was a problem looking for matches.": "Při hledání shody se vyskytl problém.",
   "There was a problem merging these items into {1}.": "Při sloučení těchto medií do {1} se vyskytl problém.",
   "There was a problem selecting the stream for {1}.": "There was a problem selecting the stream for {1}.",
   "There was a problem splitting {1} apart.": "There was a problem splitting {1} apart.",
-  "There was a problem unmatching {1}.": "There was a problem unmatching {1}.",
+  "There was a problem unmatching {1}.": "Při rušení přiřazení {1} se vyskytl problém",
   "There was a problem connecting your server.": "There was a problem connecting your server.",
   "There was a problem disconnecting your server.": "There was a problem disconnecting your server.",
   "The username or password is incorrect.": "Nesprávné uživatelské jméno nebo heslo.",
@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Allows the server to copy compatible audio and video streams without converting them.",
   "At least one folder is required.": "Alespoň jedna složka musí být uvedena.",
   "Now Playing": "Právě hraje",
-  "on": "zap",
+  "Playing on": "Playing on",
+  "Paused on": "Paused on",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "Vyhledávání ve vzdálených knihovnách je vypnuté.",
   "myPlex is down for maintenance.": "myPlex je pozastaven z důvodu udržby.",
   "Transcoding": "Transkódování",
@@ -684,5 +686,7 @@
   "seconds": "seconds",
   "minute": "minute",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

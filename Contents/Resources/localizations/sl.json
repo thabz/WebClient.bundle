@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Allows the server to copy compatible audio and video streams without converting them.",
   "At least one folder is required.": "At least one folder is required.",
   "Now Playing": "Trenutno se predvaja",
-  "on": "na",
+  "Playing on": "Playing on",
+  "Paused on": "Paused on",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "Iskanje oddaljenih knjižnic ni omogočeno.",
   "myPlex is down for maintenance.": "myPlex je nedostopen zaradi vzdrževanja.",
   "Transcoding": "Prekodiranje",
@@ -684,5 +686,7 @@
   "seconds": "sekunde",
   "minute": "minuta",
   "min": "min",
-  "hr": "ura"
+  "hr": "ura",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

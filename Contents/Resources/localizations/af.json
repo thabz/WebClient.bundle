@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Allows the server to copy compatible audio and video streams without converting them.",
   "At least one folder is required.": "At least one folder is required.",
   "Now Playing": "Now Playing",
-  "on": "aan",
+  "Playing on": "Playing on",
+  "Paused on": "Paused on",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "Search remote libraries is disabled.",
   "myPlex is down for maintenance.": "myPlex is down for maintenance.",
   "Transcoding": "Transcoding",
@@ -684,5 +686,7 @@
   "seconds": "seconds",
   "minute": "minute",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

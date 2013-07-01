@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Sunucuya uyumlu video ve ses akışlarının çevirmeden kopyalamasına izin ver.",
   "At least one folder is required.": "En az bir klasör gerekli.",
   "Now Playing": "Şimdi Oynatılıyor",
-  "on": "açık",
+  "Playing on": "Oynatılıyor",
+  "Paused on": "Duraklatıldı",
+  "Buffering on": "Arabelleğe Alınıyor",
   "Search remote libraries is disabled.": "Uzak kütüphanede aramayı devre dışı bırakın.",
   "myPlex is down for maintenance.": "myPlex bakım için kapatılmıştır.",
   "Transcoding": "Dönüştürülüyor",
@@ -684,5 +686,7 @@
   "seconds": "Saniye",
   "minute": "Dakika",
   "min": "dak",
-  "hr": "sa"
+  "hr": "sa",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Sallii serverin kopioida yhteensopivat ääni ja video virrat ilman konvertointia.",
   "At least one folder is required.": "Vaaditaan ainakin yksi kansio.",
   "Now Playing": "Nyt soittaa",
-  "on": "on",
+  "Playing on": "Playing on",
+  "Paused on": "Paused on",
+  "Buffering on": "Buffering on",
   "Search remote libraries is disabled.": "Search remote libraries is disabled.",
   "myPlex is down for maintenance.": "myPlex on alhaalla huollon takia.",
   "Transcoding": "Muunnos",
@@ -684,5 +686,7 @@
   "seconds": "seconds",
   "minute": "minute",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

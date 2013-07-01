@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Permet al servidor per copiar àudio compatible i seqüències de vídeo sense haver de convertir-los.",
   "At least one folder is required.": "Com a mínim  es requereix una carpeta.",
   "Now Playing": "Reproduint ara",
-  "on": "Activat",
+  "Playing on": "Reproduïnt en",
+  "Paused on": "Detingut a",
+  "Buffering on": "Emmagatzematge de buffer a",
   "Search remote libraries is disabled.": "La recerca de biblioteques remotes està desactivada",
   "myPlex is down for maintenance.": "El servei MeuPlex esta caigut temporalment per mateniment.",
   "Transcoding": "Transcodificant",
@@ -684,5 +686,7 @@
   "seconds": "segons",
   "minute": "minut",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

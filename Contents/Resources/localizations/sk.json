@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Umožňuje serveru kopírovať kompatibilné audio a video streamy bez potreby konvertovania",
   "At least one folder is required.": "Vyžaduje sa aspoň jedna zložka",
   "Now Playing": "Teraz prehrávané",
-  "on": "na",
+  "Playing on": "Prehrávané na",
+  "Paused on": "Pozastavené na",
+  "Buffering on": "Bufferovanie na",
   "Search remote libraries is disabled.": "Prehľadávanie vzdialených knižníc je vypnuté.",
   "myPlex is down for maintenance.": "myPlex je vypnutý z dôvodu údržby.",
   "Transcoding": "Transkódovanie",
@@ -684,5 +686,7 @@
   "seconds": "sekundy",
   "minute": "minúta",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Zobraz film Neprehliadnuté Ikony",
+  "Show unwatched icons in movie lists.": "Zobraziť neprehliadnuté ikony v zoznamoch filmov."
 }

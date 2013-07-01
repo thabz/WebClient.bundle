@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Engedélyezi, hogy a szerver kompatibilis hangot és videót másoljon konvertálás nélkül.",
   "At least one folder is required.": "Legalább egy mappa szükséges.",
   "Now Playing": "Most játszott",
-  "on": "ilyen időpontban:",
+  "Playing on": "Lejátszva",
+  "Paused on": "Megállítva",
+  "Buffering on": "Pufferelve",
   "Search remote libraries is disabled.": "Távoli könyvtárak keresése",
   "myPlex is down for maintenance.": "A myPlex karbantartás miatt leállt.",
   "Transcoding": "Átkódolás",
@@ -684,5 +686,7 @@
   "seconds": "másodpercek",
   "minute": "perc",
   "min": "p",
-  "hr": "ó"
+  "hr": "ó",
+  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
 }

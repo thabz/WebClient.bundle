@@ -564,7 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Permite ao servidor copiar streams áudio e vídeo compatíveis sem as converter.",
   "At least one folder is required.": "Pelo menos um diretório é necessário.",
   "Now Playing": "Reproduzindo Agora",
-  "on": "em",
+  "Playing on": "Reproduzindo em",
+  "Paused on": "Pausado em",
+  "Buffering on": "Armazenando em buffer em",
   "Search remote libraries is disabled.": "A pesquisa em bibliotecas remotas está desativada.",
   "myPlex is down for maintenance.": "myPlex está indisponível para manutenção.",
   "Transcoding": "Transcodificação",
@@ -658,7 +660,7 @@
   "photos": "fotos",
   "home movies": "filmes caseiros",
   "Recently Aired": "Exibidos Recentemente",
-  "Recently Viewed": "Recently Viewed",
+  "Recently Viewed": "Exibidos Recentemente",
   "Recently Released": "Lançados Recentemente",
   "Episode Duration": "Duração do Episódio",
   "Writer": "Autor",
@@ -684,5 +686,7 @@
   "seconds": "segundos",
   "minute": "minuto",
   "min": "min",
-  "hr": "hr"
+  "hr": "hr",
+  "Show Movie Unwatched Icons": "Exibir Ícones de Filmes Não-Assistidos",
+  "Show unwatched icons in movie lists.": "Exibir ícones de não-assistidos na lista de filmes."
 }
