@@ -564,7 +564,7 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Erlaubt es dem Server, kompatible Audio- und Video-Streams zu kopieren ohne diese zu konvertieren.",
   "At least one folder is required.": "Mindestens ein Ordner muss ausgewählt werden.",
   "Now Playing": "Aktuelle Wiedergabe",
-  "Playing on": "Wiedergabe bei ",
+  "Playing on": "Wiedergabe auf",
   "Paused on": "Gestoppt bei",
   "Buffering on": "Pufferspeicher füllen bei",
   "Search remote libraries is disabled.": "Suche von entfernten Bibliotheken ist abgeschaltet.",
@@ -687,6 +687,6 @@
   "minute": "Minute",
   "min": "Min.",
   "hr": "Std.",
-  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show Movie Unwatched Icons": "Zeige Ungesehen-Icons in Filmlisten.",
+  "Show unwatched icons in movie lists.": "Zeige Ungesehen-Icons in Filmlisten."
 }

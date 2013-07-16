@@ -14,7 +14,7 @@
   "Debug": "Depuració",
   "Debug Level": "Nivell de Depuració",
   "Already have an account?": "Ja tens un compte?",
-  "On Deck": "En progrés",
+  "On Deck": "En Curs",
   "Update": "Actualitzar",
   "Profile": "Perfil",
   "Confirm Password": "Confirmeu la vostra contrasenya",
@@ -687,6 +687,6 @@
   "minute": "minut",
   "min": "min",
   "hr": "hr",
-  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show Movie Unwatched Icons": "Mostra icones de pelis no vistes",
+  "Show unwatched icons in movie lists.": "Mostra icones de no vist en els llistats de pel·lícules."
 }

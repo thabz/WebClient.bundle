@@ -667,7 +667,7 @@
   "Cast": "Глумци",
   "Originally Available": "Првобитно доступно",
   "Title": "Наслов",
-  "Sort Title": "Сортирај наслов",
+  "Sort Title": "Сортирај по наслову",
   "Original Title": "Оригинални наслов",
   "Summary": "Резиме",
   "Tagline": "Промотивна порука",
@@ -687,6 +687,6 @@
   "minute": "минут",
   "min": "мин.",
   "hr": "ч",
-  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show Movie Unwatched Icons": "Прикажи иконе за неодгледане филмове",
+  "Show unwatched icons in movie lists.": "Прикажи иконе за неодгледане филмове у листи."
 }

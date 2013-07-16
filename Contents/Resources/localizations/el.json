@@ -93,7 +93,7 @@
   "Merge": "Συγχώνευση",
   "Level": "Επίπεδο",
   "Video": "Βίντεο",
-  "TV Shows": "Σήριαλ",
+  "TV Shows": "Εκπομπές Τηλεόρασης",
   "Turbo Scan (Default)": "Γρήγορη σάρωση (Προεπιλογή)",
   "Ref Frames": "Καρέ",
   "Recently Added": "Προστέθηκαν Πρόσφατα",
@@ -114,7 +114,7 @@
   "Albums": "Συλλογές",
   "Library": "Βιβλιοθήκη",
   "Mark as Unwatched": "Δεν προβλήθηκε",
-  "of": "Από",
+  "of": "από",
   "Unable to authenticate your server": "Αδύνατη η πιστοποίηση του διακομιστή σας",
   "Sign Out": "Αποσύνδεση",
   "Featured Channels": "Προτεινόμενα Κανάλια",
@@ -228,7 +228,7 @@
   "Player": "Αναπαραγωγός",
   "Results": "Αποτελέσματα",
   "Result": "Αποτέλεσμα",
-  "Clear Filters": "Καθαρισμόςφίλτρων",
+  "Clear Filters": "Καθαρισμός φίλτρων",
   "Direct Play": "Απευθείας Αναπαραγωγή",
   "The media server is not responding.": "Ο διακομιστής αρχείων δεν αποκρίνεται.",
   "The media server responded with an error.": "Σφάλμα διακομιστή αρχείων.",
@@ -687,6 +687,6 @@
   "minute": "λεπτό",
   "min": "λεπ",
   "hr": "ω",
-  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show Movie Unwatched Icons": "Προβολή εικονιδίου σε μη προβεβλημένες ταινίες",
+  "Show unwatched icons in movie lists.": "Προβολή εικονιδίου στις μη προβεβλημένες ταινίες στη λίστα ταινιών."
 }

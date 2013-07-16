@@ -565,7 +565,7 @@
   "At least one folder is required.": "Au moins un dossier est requis.",
   "Now Playing": "Lecture en cours",
   "Playing on": "En cours de lecture sur",
-  "Paused on": "Arreté sur",
+  "Paused on": "En pause sur",
   "Buffering on": "Mise en memoire tampon sur",
   "Search remote libraries is disabled.": "La recherche de médiathèque distante est désactivée.",
   "myPlex is down for maintenance.": "myPlex est indisponible pour cause de maintenance.",
@@ -687,6 +687,6 @@
   "minute": "minute",
   "min": "min.",
   "hr": "H",
-  "Show Movie Unwatched Icons": "Afficher les icones \"Film non visionné\"",
-  "Show unwatched icons in movie lists.": "Afficher l'icone \"Film non visionné\" dans les listes de films."
+  "Show Movie Unwatched Icons": "Afficher les icônes \"Film non visionné\"",
+  "Show unwatched icons in movie lists.": "Afficher les icônes \"Non vus\" dans les listes de films."
 }

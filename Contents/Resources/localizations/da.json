@@ -129,7 +129,7 @@
   "Back": "Tilbage",
   "Shared Libraries": "Delte Biblioteker",
   "Photo": "Foto",
-  "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a section, all information about missing media is deleted.": "Som standard vil mediaserveren ikke fjerne information om medier med det samme. Dette hjælper, hvis et drev midlertidigt slås fra. Når du tømmersSkraldespanden for en sektion, vil al information om manglende medier blive slettet.",
+  "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a section, all information about missing media is deleted.": "Som standard vil mediaserveren ikke fjerne information om medier med det samme. Dette hjælper, hvis et drev midlertidigt slås fra. Når du tømmer skraldespanden for en sektion, vil al information om manglende medier blive slettet.",
   "Media": "Medie",
   "Change Background": "Skift Baggrundsbillede",
   "Bitrate": "Bitrate",

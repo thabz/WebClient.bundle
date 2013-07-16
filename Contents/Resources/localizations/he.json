@@ -51,7 +51,7 @@
   "Format": "פורמט",
   "Unwatched": "לא נצפה",
   "The media server stores information about your media to disk, as well as posters, artwork, and other media resources from the Internet. Running this task deletes any bundles which are no longer in use.": "שרת המדיה מאחסן מידע על המדיה שלך בדיסק, בנוסף לפוסטרים, תמונות של שירים ועוד משאבי מדיה אחרים מהאינטרנט. הרצת פעולה זו מוחקת את כל החבילות שלא נמצאות יותר בשימוש.",
-  "Plex organizes your library into sections, organized by type. You can add as many sections as you want, and you can have multiple sections with the same type.": "פלקס מארגן את הספרייה שלך לקגטוריות הממוינות ע\"פ סוג. אתה יכול להוסיף כמה קטגוריות שאתה רוצה ואתה יכול להוסיף מספר קטגוריות מאותו סוג.",
+  "Plex organizes your library into sections, organized by type. You can add as many sections as you want, and you can have multiple sections with the same type.": "פלקס מארגן את הספרייה שלך לקטגוריות הממוינות ע\"פ סוג. אתה יכול להוסיף כמה קטגוריות שאתה רוצה ואתה יכול להוסיף מספר קטגוריות מאותו סוג.",
   "Season": "עונה",
   "Restart": "התחל מחדש",
   "Codec": "מקודד",
@@ -566,7 +566,7 @@
   "Now Playing": "מתנגן כעת",
   "Playing on": "מנגן ב- ",
   "Paused on": "מושהה ב- ",
-  "Buffering on": "Buffering on",
+  "Buffering on": "באפר פעיל",
   "Search remote libraries is disabled.": "חיפוש בספריות מרוחקות מכובה.",
   "myPlex is down for maintenance.": "myPlex אינו זמין לצורך עבודות תחזוקה.",
   "Transcoding": "מקודד",
@@ -687,6 +687,6 @@
   "minute": "דקה",
   "min": "דקות",
   "hr": "שעות",
-  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show Movie Unwatched Icons": "הצג צלמיות סרטים שלא ניצפו",
+  "Show unwatched icons in movie lists.": "הצג צלמיות \"לא ניצפה\" ברשימת הסרטים"
 }

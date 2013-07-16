@@ -564,9 +564,9 @@
   "Allows the server to copy compatible audio and video streams without converting them.": "Позволяет серверу копировать совместимые аудио и видео потоки, не преобразовывая их.",
   "At least one folder is required.": "Должна быть хотя бы одна директория. ",
   "Now Playing": "Текущее воспроизведение",
-  "Playing on": "Playing on",
-  "Paused on": "Paused on",
-  "Buffering on": "Buffering on",
+  "Playing on": "Воспроизведение",
+  "Paused on": "Пауза",
+  "Buffering on": "Буфферизация",
   "Search remote libraries is disabled.": "Поиск внешних медиа-библиотек отключен",
   "myPlex is down for maintenance.": "myPlex  недоступен в связи с обслуживанием.",
   "Transcoding": "Перекодирование",
@@ -687,6 +687,6 @@
   "minute": "минута",
   "min": "минут",
   "hr": "часов",
-  "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show Movie Unwatched Icons": "Показать иконки не просмотренного фильма",
+  "Show unwatched icons in movie lists.": "Показать иконки в списках не просмотренных фильмов."
 }
