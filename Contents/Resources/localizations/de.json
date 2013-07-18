@@ -688,5 +688,13 @@
   "min": "Min.",
   "hr": "Std.",
   "Show Movie Unwatched Icons": "Zeige Ungesehen-Icons in Filmlisten.",
-  "Show unwatched icons in movie lists.": "Zeige Ungesehen-Icons in Filmlisten."
+  "Show unwatched icons in movie lists.": "Zeige Ungesehen-Icons in Filmlisten.",
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Auf dieses Medium kann nicht zugegriffen werden. Bitte überprüfen Sie, ob die Datei über die richtigen Zugriffsrechte verfügt.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "Die Metadaten für dieses Medium sind ungültig. Bitte analysieren Sie das Medium erneut und versuchen Sie es erneut.",
+  "The client profile for the sync target is invalid.": "Das Benutzerprofil für das Synchronisationsziel ist ungültig.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Ein Fehler ist bei der Verarbeitung dieses Mediums aufgetreten. Bitte überprüfen Sie, dass der Datenträger nicht voll ist.",
+  "The transcoder was unable to process this media.": "Der Transkoder war nicht in der Lage dieses Medium zu verarbeiten.",
+  "This media was unable to be analyzed.": "Dieses Medium konnte nicht analysiert werden.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "Dieses Medium konnte nicht geladen werden. Bitte überprüfen Sie, ob es weiterhin verfügbar ist und versuchen Sie es erneut.",
+  "An error occurred while syncing this media.": "Ein Fehler ist bei der Synchronisierung dieses Mediums aufgetreten."
 }

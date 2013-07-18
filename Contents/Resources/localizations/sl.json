@@ -688,5 +688,13 @@
   "min": "min",
   "hr": "ura",
   "Show Movie Unwatched Icons": "Show Movie Unwatched Icons",
-  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists."
+  "Show unwatched icons in movie lists.": "Show unwatched icons in movie lists.",
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
+  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
+  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
+  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
+  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
+  "An error occurred while syncing this media.": "An error occurred while syncing this media."
 }

@@ -52,7 +52,7 @@
   "Unwatched": "Da vedere",
   "The media server stores information about your media to disk, as well as posters, artwork, and other media resources from the Internet. Running this task deletes any bundles which are no longer in use.": "Il media server memorizza su disco le informazioni dei tuoi media, così come le locandine, le copertine ed altre risorse da Internet. Eseguendo questa operazione saranno cancellati i contenuti che non sono più utilizzati.",
   "Plex organizes your library into sections, organized by type. You can add as many sections as you want, and you can have multiple sections with the same type.": "Plex organizza la tua libreria in sezioni, suddivise per tipo. Puoi aggiungere quante sezioni vuoi, e puoi avere più sezioni dello stesso tipo.",
-  "Season": "Stagioni",
+  "Season": "Stagione",
   "Restart": "Riavvia",
   "Codec": "Codec",
   "Home": "Home",
@@ -688,5 +688,13 @@
   "min": "minuto",
   "hr": "ora/e",
   "Show Movie Unwatched Icons": "Mostra icone Film Non Visto",
-  "Show unwatched icons in movie lists.": "Mostra delle icone per segnalare i film non visti negli elenchi di film."
+  "Show unwatched icons in movie lists.": "Mostra delle icone per segnalare i film non visti negli elenchi di film.",
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
+  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
+  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
+  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
+  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
+  "An error occurred while syncing this media.": "An error occurred while syncing this media."
 }
