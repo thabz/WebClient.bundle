@@ -1,7 +1,7 @@
 {
   "Subtitles": "Sottotitoli",
   "Start from beginning": "Riproduci dall'inizio",
-  "In the next few steps, you'll tell Plex where your music, videos, and photos are stored. Plex will create a beautiful library and organize your media inside it.": "Nei prossimi passi comunicherai a Plex dove recuperare i tuoi Video, le tue foto e la tua musica. Plex creerà una fantastica collezioni e organizzerà i contenuti al suo interno.",
+  "In the next few steps, you'll tell Plex where your music, videos, and photos are stored. Plex will create a beautiful library and organize your media inside it.": "In pochi passi indicherai a Plex dove sono conservati la tua musica, i video e le immagini. Plex creerà una fantastica libreria e organizzerà i tuoi contenuti al suo interno.",
   "We will then show you how to get iOS, Android, Mac, PC, and Connected TV apps so that you can access your library from any devices you own, both inside the home and on the go.": "Dopodiché, ti mostreremo come ottenere le app per iOS, Android, Mac, PC e TV per poter accedere alla tua libreria da qualsiasi dispositivo in tuo possesso, sia in casa che in viaggio.",
   "Recommended by": "Consigliato da",
   "Plex Series Scanner": "Serie TV Plex Scanner",
@@ -360,7 +360,7 @@
   "You need <a class='friends-btn' href='{1}'>friends</a> to recommend media.": "Hai bisogno di <a class='friends-btn' href='{1}'>amici</a> per suggerire dei media.",
   "Send": "Invia",
   "This media item does not have a valid url.": "Questo elemento non ha un URL valido.",
-  "There was a problem recommending this media item.": "Si è verificato un problema a consigliare questo supporto.",
+  "There was a problem recommending this media item.": "C'è stato un problema nel consigliare questo elemento.",
   "Say something about this...": "Parlaci di questo...",
   "No message": "Nessun messaggio",
   "There was a problem sharing this media item.": "C'è stato un problema nel condividere questo elemento.",
@@ -689,12 +689,12 @@
   "hr": "ora/e",
   "Show Movie Unwatched Icons": "Mostra icone Film Non Visto",
   "Show unwatched icons in movie lists.": "Mostra delle icone per segnalare i film non visti negli elenchi di film.",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Impossibile accedere a questa risorsa. Per favore controlla che i permessi del file siano corretti.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "I metadati per questa risorsa non sono validi. Per favore analizza nuovamente il file e prova ancora.",
+  "The client profile for the sync target is invalid.": "Il profilo del client per la sincronizzazione non è valido.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Si è verificato un errore durante l'elaborazione di questa risorsa. Per favore controlla che il disco non sia pieno.",
+  "The transcoder was unable to process this media.": "Il convertitore non è stato in grado di elaborare questa risorsa.",
+  "This media was unable to be analyzed.": "Impossibile analizzare questa risorsa.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "Impossibile scaricare questa risorsa. Per favore controlla che sia ancora disponibile e prova ancora.",
+  "An error occurred while syncing this media.": "Si è verificato un errore durante la sincronizzazione di questa risorsa."
 }

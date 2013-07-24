@@ -689,12 +689,12 @@
   "hr": "hr",
   "Show Movie Unwatched Icons": "Mostrar iconos de películas no vistas",
   "Show unwatched icons in movie lists.": "Mostrar iconos de no visto en los listados de películas.",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Este contenido es inaccesible. Compruebe que el fichero existe con los permisos correctos.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "Los metadatos de este contenido son inválidos. Analize otra vez el contenido e inténtelo de nuevo.",
+  "The client profile for the sync target is invalid.": "El perfil de cliente para el destino de la sincronización es inválido.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Se ha producido un error al procesar este contenido. Compruebe que el disco no está lleno.",
+  "The transcoder was unable to process this media.": "El convertidor no ha podido procesar este contenido.",
+  "This media was unable to be analyzed.": "No ha sido posible analizar este contenido.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "Este contenido no se ha podido descargar. Compruebe que sigue disponible e inténtelo de nuevo.",
+  "An error occurred while syncing this media.": "Se ha producido un error al sincronizar este contenido."
 }

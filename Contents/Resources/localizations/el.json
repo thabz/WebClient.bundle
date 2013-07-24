@@ -689,12 +689,12 @@
   "hr": "ω",
   "Show Movie Unwatched Icons": "Προβολή εικονιδίου σε μη προβεβλημένες ταινίες",
   "Show unwatched icons in movie lists.": "Προβολή εικονιδίου στις μη προβεβλημένες ταινίες στη λίστα ταινιών.",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Αυτό το αρχείο δεν είναι προσβάσιμο. Παρακαλώ ελέγξτε ότι το αρχείο υπάρχει και έχει τα σωστά δικαιώματα.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "Τα μεταδεδομένα για αυτό το αρχείο δεν είναι έγκυρα. Παρακαλώ αναλύστε ξανά το αρχείο και προσπαθήστε ξανά.",
+  "The client profile for the sync target is invalid.": "Το προφίλ πελάτης για αυτόν τον συγχρονισμό δεν είναι έγκυρο.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Προέκυψε σφάλμα κατά την επεξεργασία αυτού του αρχείου. Παρακαλώ ελέγξτε ότι ο δίσκος δεν είναι γεμάτος.",
+  "The transcoder was unable to process this media.": "Αδύνατη η επεξεργασία του αρχείου από τον μετατροπέα.",
+  "This media was unable to be analyzed.": "Δεν είναι δυνατή η ανάλυση του αρχείου.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "Αδύνατη η λήψη του αρχείου. Παρακαλώ ελέγξτε ότι είναι ακόμα διαθέσιμο και προσπαθήστε ξανά.",
+  "An error occurred while syncing this media.": "Σφάλμα κατά τον συγχρονισμό του αρχείου."
 }

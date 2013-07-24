@@ -689,12 +689,12 @@
   "hr": "Uur",
   "Show Movie Unwatched Icons": "Films nog niet gezien, logo",
   "Show unwatched icons in movie lists.": "Niet bekeken icoon weergeven bij film lijst",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Dit mediabestand kan niet worden geopend. Controleer of het bestand bestand en of de toegangsrechten correct zijn.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "De metadata voor dit mediabestand is ongeldig. Analyseer mediabestand opnieuw en probeer nogmaals.",
+  "The client profile for the sync target is invalid.": "Het clientprofiel voor de synchronisatiebestemming is ongeldig. ",
+  "An error occurred processing this media. Please check that the disk is not full.": "Een fout deed zich voor bij het verwerken van dit mediabestand. Controleer of de schijf niet vol is.",
+  "The transcoder was unable to process this media.": "De transcoder kon dit mediabestand niet verwerken.",
+  "This media was unable to be analyzed.": "Dit mediabestand kon niet worden geanalyseerd.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "Dit mediabestand kon niet worden gedownload. Controleer of het nog beschikbaar is en probeer opnieuw.",
+  "An error occurred while syncing this media.": "Een fout deed zich voor tijdens het synchroniseren van dit mediabestand."
 }

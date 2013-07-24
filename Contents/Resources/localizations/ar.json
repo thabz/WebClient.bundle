@@ -689,12 +689,12 @@
   "hr": "ساعة",
   "Show Movie Unwatched Icons": "إظهار رموز \"لم تشاهد\" للأفلام",
   "Show unwatched icons in movie lists.": "إظهار رموز \"لم تشاهد\" في قائمة الأفلام",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "لقد تعذر الوصول لهذا الوسيط. من فضلك، تأكد من وجود هذا الملف بالصلاحيات الصحيحة.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "توصيف معلومات لهذا الوسيط فاسدة. من فضلك أعد تحليل بيانات الوسيط ثم حاول مرة أخرى.",
+  "The client profile for the sync target is invalid.": "تعريف العميل لمستهدف المزامنة غير صالح.",
+  "An error occurred processing this media. Please check that the disk is not full.": "لقد وقع خطأ أثناء معالجة هذه الوسائط. تأكد من عدم امتلاء القرص الصلب.",
+  "The transcoder was unable to process this media.": "المُرَمِّز غير قادر على معالجة هذه الوسائط.",
+  "This media was unable to be analyzed.": "لم يمكن تحليل هذا الوسيط.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "لم يمكن تحميل هذه الوسائط. تأكد أنها لا تزال متاحة ثم حاول مرة أخرى.",
+  "An error occurred while syncing this media.": "لقد حدث خطأ أثناء تزامن الوسيط"
 }

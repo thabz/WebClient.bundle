@@ -689,12 +689,12 @@
   "hr": "hr",
   "Show Movie Unwatched Icons": "Mostra icones de pelis no vistes",
   "Show unwatched icons in movie lists.": "Mostra icones de no vist en els llistats de pel·lícules.",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Aquest contingut és inaccessible. Comproveu que existeix el fitxer amb els permisos adequats.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "La metadades d'aquest contingut no no són valides. Si us plau, analitzeu el contingut de nou, i torneu-ho a provar.",
+  "The client profile for the sync target is invalid.": "El perfil de client per al destí de sincronització no és vàlid.",
+  "An error occurred processing this media. Please check that the disk is not full.": "S'ha produït un error en processar aquest contingut. Si us plau, comproveu que el disc no estigui ple.",
+  "The transcoder was unable to process this media.": "El transcodificador no ha pogut processar aquest contingut. ",
+  "This media was unable to be analyzed.": "Aquest contingut no ha pogut ser analitzat.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "Aquest contingut no s'ha pogut descarregar. Si us plau, comproveu que encara està disponible i torneu a intentar.",
+  "An error occurred while syncing this media.": "S'ha produït un error al sincronitzar aquest contingut."
 }

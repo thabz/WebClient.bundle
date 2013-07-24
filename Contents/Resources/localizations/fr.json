@@ -696,5 +696,5 @@
   "The transcoder was unable to process this media.": "Impossible de transcoder ce média.",
   "This media was unable to be analyzed.": "Impossible d'analyser ce média.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Impossible de télécharger ce média. Merci de vérifier qu'il est toujours disponible puis de réessayer.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "An error occurred while syncing this media.": "Une erreur est survenue lors de la synchronisation de ce média."
 }

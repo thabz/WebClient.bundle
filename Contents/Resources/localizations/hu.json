@@ -689,12 +689,12 @@
   "hr": "ó",
   "Show Movie Unwatched Icons": "Filmek nemnézett ikonjai láthatóak",
   "Show unwatched icons in movie lists.": "Nemnézett ikonok a filmlistákban láthatóak",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
-  "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "Ez a média nem érhető el. Kérjük, ellenőrizze, hogy a fájl létezik a megfelelő engedélyekkel.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "A média metaadatai érvénytelenek. Kérjük ellenőrizze a médiát, és próbálja újra.",
+  "The client profile for the sync target is invalid.": "A kliens profil érvénytelen a szinkronizációs célhoz.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Hiba történt a média feldolgozásában. Kérjük, ellenőrizze a rendelkezésre álló üres helyet a lemezen.",
+  "The transcoder was unable to process this media.": "Az átkódoló nem tudta feldolgozni a médiát.",
+  "This media was unable to be analyzed.": "A média nem elemezhető.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "A média nem letölthető. Kérjük, ellenőrizze, hogy még elérhető és próbálja meg újra.",
+  "An error occurred while syncing this media.": "Hiba történt a média szinkronizálásában."
 }

@@ -689,12 +689,12 @@
   "hr": "שעות",
   "Show Movie Unwatched Icons": "הצג צלמיות סרטים שלא ניצפו",
   "Show unwatched icons in movie lists.": "הצג צלמיות \"לא ניצפה\" ברשימת הסרטים",
-  "This media is inaccessible. Please check that the file exists with the correct permissions.": "This media is inaccessible. Please check that the file exists with the correct permissions.",
-  "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyze the media and try again.",
+  "This media is inaccessible. Please check that the file exists with the correct permissions.": "המדיה אינה זמינה. נא בדקו כי הקובץ קיים ובעל הרשאות מתאימות.",
+  "The metadata for this media is invalid. Please reanalyze the media and try again.": "מתוני מדיה זאת אינם תקפים. נא בצעו ניתוח מחדש למדיה ונסו שוב.",
   "The client profile for the sync target is invalid.": "The client profile for the sync target is invalid.",
-  "An error occurred processing this media. Please check that the disk is not full.": "An error occurred processing this media. Please check that the disk is not full.",
-  "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
-  "This media was unable to be analyzed.": "This media was unable to be analyzed.",
-  "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "An error occurred processing this media. Please check that the disk is not full.": "אירעה שגיאה בעת עיבוד המדיה. נא בידקו כי הכונן אינו מלא.",
+  "The transcoder was unable to process this media.": "המקודד לא הצליח לעבד את המדיה.",
+  "This media was unable to be analyzed.": "לא היה ניתן לנתח את המדיה.",
+  "This media was unable to be downloaded. Please check that it is still available and try again.": "לא היתה אפשרות להוריד את המדיה. נא בידקו כי המדיה עדיין זמינה ונסו שוב.",
+  "An error occurred while syncing this media.": "אירעה שגיאה בעת סינכרון המדיה."
 }
