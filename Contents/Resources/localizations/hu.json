@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "A csatorna könyvtár jelenleg nem elérhető!",
   "This channel is currently unavailable.": "Ez a csatorna jelenleg nem elérhető!",
   "This media server does not support transcoding.": "A médiaszerver nem támogatja az átkódolást!",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "Flash Player vagy egy böngésző HLS támogatással szükséges a videók lejátszásához.",
   "There was an error attempting to play this video.": "Hiba lépett fel a videó lejátszásakor!",
   "There was a problem installing the update.": "Hiba lépett fel a frissítés telepítésekor!",
   "There was a problem trying to perform this action on {1}.": "Hiba lépett fel a(z) {1} művelete közben!",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "Az átkódoló nem tudta feldolgozni a médiát.",
   "This media was unable to be analyzed.": "A média nem elemezhető.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "A média nem letölthető. Kérjük, ellenőrizze, hogy még elérhető és próbálja meg újra.",
-  "An error occurred while syncing this media.": "Hiba történt a média szinkronizálásában."
+  "An error occurred while syncing this media.": "Hiba történt a média szinkronizálásában.",
+  "There was an error attempting to play this video.": "Hiba lépett fel a videó lejátszásakor!",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

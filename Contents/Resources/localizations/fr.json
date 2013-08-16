@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "La liste des chaines n'est pas disponible pour le moment.",
   "This channel is currently unavailable.": "Cette chaine n'est pas disponible pour le moment.",
   "This media server does not support transcoding.": "Ce serveur ne supporte pas le transcodage.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "Vous devez disposer d'un navigateur supportant le HLS ou Flash Player pour lire des vidéos.",
   "There was an error attempting to play this video.": "Il y avait une erreur lors de la tentative de lecture de cette video.",
   "There was a problem installing the update.": "Il y avait une erreur lors de l'installation de la mise à jour.",
   "There was a problem trying to perform this action on {1}.": "Il y avait un problème lors de cette action sur  {1}.",
@@ -691,10 +690,15 @@
   "Show unwatched icons in movie lists.": "Afficher les icônes \"Non vus\" dans les listes de films.",
   "This media is inaccessible. Please check that the file exists with the correct permissions.": "Ce média et inaccessible. Merci de vérifier que le fichier existe avec les bonnes permissions.",
   "The metadata for this media is invalid. Please reanalyze the media and try again.": "Les métadonnées de ce média sont invalides. Merci de le réanalyser puis de réessayer.",
-  "The client profile for the sync target is invalid.": "Le profile client est incorrect pour la cible de la synchronisation.",
-  "An error occurred processing this media. Please check that the disk is not full.": "Une erreur est survenue durant la progression du média. Merci de vérifier que le disque n'est pas plein.",
+  "The client profile for the sync target is invalid.": "Le profil client est incorrect pour la cible de la synchronisation.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Une erreur est survenue durant le traitement du média. Merci de vérifier que le disque n'est pas plein.",
   "The transcoder was unable to process this media.": "Impossible de transcoder ce média.",
   "This media was unable to be analyzed.": "Impossible d'analyser ce média.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Impossible de télécharger ce média. Merci de vérifier qu'il est toujours disponible puis de réessayer.",
-  "An error occurred while syncing this media.": "Une erreur est survenue lors de la synchronisation de ce média."
+  "An error occurred while syncing this media.": "Une erreur est survenue lors de la synchronisation de ce média.",
+  "There was an error attempting to play this video.": "Il y avait une erreur lors de la tentative de lecture de cette video.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "Le flux direct HTML5 nécessite Plex Media Server 0.9.8.5 ou supérieur.",
+  "HLS streaming requires the Flash player or native HLS support.": "Le flux Http Live Streaming nécessite le lecteur Flash ou le support natif de l'HLS.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Vous devez installer le <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "et connecter le serveur à votre compte <a href='{1}' target='_blank'>myPlex</a>."
 }

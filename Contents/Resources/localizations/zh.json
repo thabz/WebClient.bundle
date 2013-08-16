@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "该频道目录当前不可用。",
   "This channel is currently unavailable.": "该频道当前不可用。",
   "This media server does not support transcoding.": "该媒体服务器不支持转码。",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "需要Flash Player或支持HLS(HTTP Live Streaming)的浏览器以播放视频。",
   "There was an error attempting to play this video.": "尝试播放此视频时遇到问题。",
   "There was a problem installing the update.": "安装更新时遇到问题。",
   "There was a problem trying to perform this action on {1}.": "在{1}上进行此操作时遇到问题。",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
   "This media was unable to be analyzed.": "This media was unable to be analyzed.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "An error occurred while syncing this media.": "An error occurred while syncing this media.",
+  "There was an error attempting to play this video.": "尝试播放此视频时遇到问题。",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

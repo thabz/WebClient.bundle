@@ -14,7 +14,7 @@
   "Debug": "Depuramento",
   "Debug Level": "Nível de depuramento",
   "Already have an account?": "Já possui uma conta?",
-  "On Deck": "On Deck",
+  "On Deck": "Em Progresso",
   "Update": "Actualizar",
   "Profile": "Perfil",
   "Confirm Password": "Confirmar Password",
@@ -38,7 +38,7 @@
   "Folders": "Pastas",
   "Start": "Iniciar",
   "Introduction": "Introdução",
-  "Edit Section": "Editar seção",
+  "Edit Section": "Editar Secção",
   "Edit Sections": "Editar secções",
   "Photos": "Fotos",
   "Info": "Informação",
@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "Esta directoria de canais está actualmente indisponível.",
   "This channel is currently unavailable.": "Este canal está actualmente indisponível.",
   "This media server does not support transcoding.": "Este servidor de média não suporta transcodificação.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "É necessário o reprodutor Flash ou um navegador que suporte HLS para reproduzir vídeos.",
   "There was an error attempting to play this video.": "Ocorreu um erro ao tentar reproduzir este vídeo.",
   "There was a problem installing the update.": "Ocorreu um problema a instalar a actualização.",
   "There was a problem trying to perform this action on {1}.": "Houve um problema ao tentar efectuar esta acção em {1}.",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
   "This media was unable to be analyzed.": "This media was unable to be analyzed.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "An error occurred while syncing this media.": "An error occurred while syncing this media.",
+  "There was an error attempting to play this video.": "Ocorreu um erro ao tentar reproduzir este vídeo.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

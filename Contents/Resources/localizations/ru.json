@@ -112,7 +112,7 @@
   "Deselect All": "Сбросить выделение",
   "Uninstall": "Удалить",
   "Albums": "Альбомы",
-  "Library": "библиотека",
+  "Library": "Библиотека",
   "Mark as Unwatched": "Отметить как непросмотренное",
   "of": "из",
   "Unable to authenticate your server": "Невозможно определить ваш сервер",
@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "Этот каталог каналов временно недоступен.",
   "This channel is currently unavailable.": "Этот канал временно недоступен.",
   "This media server does not support transcoding.": "Этот медиа-сервер не поддерживает перекодировку.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "Flash Player, или браузер, который поддерживает HLS требуется для воспроизведения видео.",
   "There was an error attempting to play this video.": "При попытке воспроизведения видео произошла ошибка.",
   "There was a problem installing the update.": "Возникла проблема при установке обновлений.",
   "There was a problem trying to perform this action on {1}.": "Возникла проблема при выполнении этого действия на {1}.",
@@ -566,7 +565,7 @@
   "Now Playing": "Текущее воспроизведение",
   "Playing on": "Воспроизведение",
   "Paused on": "Пауза",
-  "Buffering on": "запись в буфер",
+  "Buffering on": "Буфферизация",
   "Search remote libraries is disabled.": "Поиск внешних медиа-библиотек отключен",
   "myPlex is down for maintenance.": "myPlex  недоступен в связи с обслуживанием.",
   "Transcoding": "Перекодирование",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "Транскодер не смог обработать этот файл.",
   "This media was unable to be analyzed.": "Этот файл не может быть проанализирован.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Этот файл не может быть загружен. Пожалуйста, убедитесь, что он по-прежнему доступен и повторите попытку.",
-  "An error occurred while syncing this media.": "При синхронизации медиа произошла ошибка."
+  "An error occurred while syncing this media.": "При синхронизации медиа произошла ошибка.",
+  "There was an error attempting to play this video.": "При попытке воспроизведения видео произошла ошибка.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "Потоковое вещание HTML5 требует Plex Media Server 0.9.8.5 и выше.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS-вещание требует наличия Flash player или встроенной поддержки HLS.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Вы должны установить <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "и связать сервер с вашим аккаунтом <a href='{1}' target='_blank'>myPlex</a>."
 }

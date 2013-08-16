@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "Este directorio de canales no se encuentra disponible actualmente.",
   "This channel is currently unavailable.": "Este canal no se encuentra disponible actualmente.",
   "This media server does not support transcoding.": "Este servidor no soporta transcodificación.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "El Flash Player o un navegador que soporte HLS es necesario para reproducir vídeos.",
   "There was an error attempting to play this video.": "Hubo un error al intentar reproducir este vídeo.",
   "There was a problem installing the update.": "Hubo un problema instalando la actualización.",
   "There was a problem trying to perform this action on {1}.": "Hubo un problema al intentar realizar esta acción en  {1}.",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "El convertidor no ha podido procesar este contenido.",
   "This media was unable to be analyzed.": "No ha sido posible analizar este contenido.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Este contenido no se ha podido descargar. Compruebe que sigue disponible e inténtelo de nuevo.",
-  "An error occurred while syncing this media.": "Se ha producido un error al sincronizar este contenido."
+  "An error occurred while syncing this media.": "Se ha producido un error al sincronizar este contenido.",
+  "There was an error attempting to play this video.": "Hubo un error al intentar reproducir este vídeo.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "Streaming con HTML5 requiere Plex Media Server 0.9.8.5 o posterior",
+  "HLS streaming requires the Flash player or native HLS support.": "Streaming con HLS requiere Flash Player o soporte nativo HLS.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Debe instalar el <a href='{1}' target='_blank'> Plex Media Server </a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "y conectar el servidor con su cuenta de <a href='{1}' target='_blank'> myPlex </a> ."
 }

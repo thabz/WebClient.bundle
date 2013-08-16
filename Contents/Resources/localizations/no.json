@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "Dette kanalbiblioteket er for tiden ikke tilgjengelig.",
   "This channel is currently unavailable.": "Denne kanalen er ikke tilgjengelig for øyeblikket",
   "This media server does not support transcoding.": "Denne mediatjeneren støtter ikke direktekonvertering.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "Du må ha en nettleser med støtte for Flash eller HLS for å spille av videoer.",
   "There was an error attempting to play this video.": "En feil oppstod ved avspilling av denne videoen.",
   "There was a problem installing the update.": "Det oppstod et problem ved installasjon av oppdateringen.",
   "There was a problem trying to perform this action on {1}.": "Det oppstod et problem ved utføringen av denne oppgaven på {1}.",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
   "This media was unable to be analyzed.": "This media was unable to be analyzed.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "An error occurred while syncing this media.": "An error occurred while syncing this media.",
+  "There was an error attempting to play this video.": "En feil oppstod ved avspilling av denne videoen.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

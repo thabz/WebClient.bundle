@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "Priečinok s kanálmi je momentálne nedostupný.",
   "This channel is currently unavailable.": "Tento kanál je momentálne nedostupný.",
   "This media server does not support transcoding.": "Media server nepodporuje transkódovanie.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "Na prehratie videa je potrebný Flash Player alebo prehliadač, ktorý podporuje HLS.",
   "There was an error attempting to play this video.": "Vyskytla sa chyba pri prehrávaní tohoto videa.",
   "There was a problem installing the update.": "Vyskytol sa problém s inštalovaním aktualizácie.",
   "There was a problem trying to perform this action on {1}.": "Vyskytol sa problém s vykonaním akcie na {1}.",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "Transkóder nemohol spracovať toto médium.",
   "This media was unable to be analyzed.": "Toto médium sa nedalo analyzovať.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Toto médium sa nedalo stiahnúť. Skontrolujte či je stále dostupné a skúste znova.",
-  "An error occurred while syncing this media.": "Vyskytol sa problém pri synchronizovaní tohto média."
+  "An error occurred while syncing this media.": "Vyskytol sa problém pri synchronizovaní tohto média.",
+  "There was an error attempting to play this video.": "Vyskytla sa chyba pri prehrávaní tohoto videa.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streamovanie vyžaduje Plex Media Server 0.9.8.5 alebo novší.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streamovanie vyžaduje Flash player alebo natívnu podporu HLS.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Musíte nainštalovať <a href='{1}' target='_blank'>Plex Media Server</a>.",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "a pripojiť váš server s vašim <a href='{1}' target='_blank'>myPlex</a> účtom."
 }

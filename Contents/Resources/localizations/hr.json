@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "The channel directory is currently unavailable.",
   "This channel is currently unavailable.": "Ovaj kanal je trenutačno nedostupan.",
   "This media server does not support transcoding.": "This media server does not support transcoding.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "The Flash Player or a browser that supports HLS is required to play videos.",
   "There was an error attempting to play this video.": "There was an error attempting to play this video.",
   "There was a problem installing the update.": "Pojavio se problem sa instaliranjem ažuriranja",
   "There was a problem trying to perform this action on {1}.": "There was a problem trying to perform this action on {1}.",
@@ -471,7 +470,7 @@
   "Subtitle mode": "Subtitle mode",
   "Manually selected": "Manually selected",
   "Shown with foreign audio": "Shown with foreign audio",
-  "Always enabled": "Always enabled",
+  "Always enabled": "Uvijek omogućeni",
   "Prefer subtitles in": "Preferiraj prijevode u ",
   "DLNA client preferences": "DLNA client preferences",
   "Client-specific configuration settings for the DLNA server": "Client-specific configuration settings for the DLNA server",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "The transcoder was unable to process this media.",
   "This media was unable to be analyzed.": "This media was unable to be analyzed.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
-  "An error occurred while syncing this media.": "An error occurred while syncing this media."
+  "An error occurred while syncing this media.": "An error occurred while syncing this media.",
+  "There was an error attempting to play this video.": "There was an error attempting to play this video.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

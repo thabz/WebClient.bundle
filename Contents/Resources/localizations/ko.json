@@ -152,7 +152,7 @@
   "My Library": "내 라이브러리",
   "Add to Collection": "컬렉션에 추가",
   "Verbose": "자세한 정보표시",
-  "Queue": "큐",
+  "Queue": "대기열",
   "Plex Video Files Scanner": "PLEX 비디오 파일 검색기",
   "Analyze": "분석",
   "Help": "도움말",
@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "이 채널 디렉토리는 현재 사용할 수 없습니다.",
   "This channel is currently unavailable.": "이 채널은 현재 사용할 수 없습니다.",
   "This media server does not support transcoding.": "이 미디어 서버는 변환(Transcoding)을 지원하지 않습니다.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "비디오 재생을 위해 The Flash Player 혹은 HLS를 지원하는 브라우저가 필요합니다.",
   "There was an error attempting to play this video.": "이 비디오를 재생할 때 에러가 발생했습니다.",
   "There was a problem installing the update.": "업데이트 중 문제가 발생했습니다.",
   "There was a problem trying to perform this action on {1}.": "{1} 의 수행에 문제가 발생했습니다.",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "트랜스코더는 본 미디어를 처리할 수 없습니다. ",
   "This media was unable to be analyzed.": "이 미디어를 조사할 수 없습니다.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "이 미디어를 다운로드할 수 없습니다. 본 미디어가 사용가능한지를 확인 후 다시 시도해 보십시요.",
-  "An error occurred while syncing this media.": "이 미디어를 동기화하는 중 오류가 발생했습니다."
+  "An error occurred while syncing this media.": "이 미디어를 동기화하는 중 오류가 발생했습니다.",
+  "There was an error attempting to play this video.": "이 비디오를 재생할 때 에러가 발생했습니다.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

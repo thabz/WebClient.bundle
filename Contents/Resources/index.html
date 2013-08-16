@@ -21,7 +21,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-	<link rel="stylesheet" href="css/plex.css?hash=dd2ecb5&version=1.2.6">
+	<link rel="stylesheet" href="css/plex.css?hash=0f2759d">
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<link rel="apple-touch-icon-precomposed" href="img/touch/icon_iphone.png">
@@ -49,31 +49,13 @@
 
 <body>
 	<div id="plex" class="application">
-		<i class="plex-icon-preloader plex-icon-myplex"></i>
+		<div class="scroll-container minimal-scrollbar">
+			<i class="plex-icon-preloader plex-icon-myplex"></i>
+		</div>
 	</div>
 
-	<script>
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-6111912-14']);
-		_gaq.push(['_trackPageview']);
-
-		var _galoader = {
-			loaded: false,
-
-			load: function () {
-				if (_galoader.loaded)
-					return;
-
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-
-				_galoader.loaded = true;
-			}
-		};
-	</script>
-
-	<script id="plex-script" src="js/plex.js?hash=dd2ecb5&version=1.2.6"></script>
+	<script src="js/analytics.js?hash=0f2759d"></script>
+	<script id="plex-script" src="js/plex.js?hash=0f2759d&version=1.2.10"></script>
 </body>
 
 </html>

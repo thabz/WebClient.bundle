@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "دليل القنوات غير متوافر حالياً",
   "This channel is currently unavailable.": "القناة غير متوافرة حالياً",
   "This media server does not support transcoding.": "خادم الوسائط هذا لايدعم فك الترميز",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "يتطلب تشغيل الفيديوهات مشغل فلاش أو متصفح يدعم خاصية HLS",
   "There was an error attempting to play this video.": "لقد حدث خطأ عند محاولة تشغيل هذا الفيديو",
   "There was a problem installing the update.": "لقد حدثت مشكلة عند تطبيق التحديث",
   "There was a problem trying to perform this action on {1}.": "لقد حدثت مشكلة عند محاولة تنفيذ هذا الإجراء على {1}",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "المُرَمِّز غير قادر على معالجة هذه الوسائط.",
   "This media was unable to be analyzed.": "لم يمكن تحليل هذا الوسيط.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "لم يمكن تحميل هذه الوسائط. تأكد أنها لا تزال متاحة ثم حاول مرة أخرى.",
-  "An error occurred while syncing this media.": "لقد حدث خطأ أثناء تزامن الوسيط"
+  "An error occurred while syncing this media.": "لقد حدث خطأ أثناء تزامن الوسيط",
+  "There was an error attempting to play this video.": "لقد حدث خطأ عند محاولة تشغيل هذا الفيديو",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }

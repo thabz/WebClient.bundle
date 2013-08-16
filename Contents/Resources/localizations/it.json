@@ -243,7 +243,6 @@
   "The channel directory is currently unavailable.": "L'elenco dei canali non è al momento disponibile.",
   "This channel is currently unavailable.": "Questo canale non è al momento disponibile.",
   "This media server does not support transcoding.": "Questo media server non supporta la transcodifica.",
-  "The Flash Player or a browser that supports HLS is required to play videos.": "Per riprodurre video è necessario Flash Player oppure un browser web che supporta HLS.",
   "There was an error attempting to play this video.": "Sì è verificato un errore nel tentativo di riprodurre questo video.",
   "There was a problem installing the update.": "Si è verificato un problema durante l'installazione dell'aggiornamento.",
   "There was a problem trying to perform this action on {1}.": "Si è verificato un problema durante il tentativo di eseguire questa azione su {1}.",
@@ -696,5 +695,10 @@
   "The transcoder was unable to process this media.": "Il convertitore non è stato in grado di elaborare questa risorsa.",
   "This media was unable to be analyzed.": "Impossibile analizzare questa risorsa.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Impossibile scaricare questa risorsa. Per favore controlla che sia ancora disponibile e prova ancora.",
-  "An error occurred while syncing this media.": "Si è verificato un errore durante la sincronizzazione di questa risorsa."
+  "An error occurred while syncing this media.": "Si è verificato un errore durante la sincronizzazione di questa risorsa.",
+  "There was an error attempting to play this video.": "Sì è verificato un errore nel tentativo di riprodurre questo video.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
 }
