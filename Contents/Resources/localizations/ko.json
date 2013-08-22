@@ -697,8 +697,8 @@
   "This media was unable to be downloaded. Please check that it is still available and try again.": "이 미디어를 다운로드할 수 없습니다. 본 미디어가 사용가능한지를 확인 후 다시 시도해 보십시요.",
   "An error occurred while syncing this media.": "이 미디어를 동기화하는 중 오류가 발생했습니다.",
   "There was an error attempting to play this video.": "이 비디오를 재생할 때 에러가 발생했습니다.",
-  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
-  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
-  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5를 이용한 스트리밍은 Plex Media Server 0.9.8.5 이후부터 지원합니다",
+  "HLS streaming requires the Flash player or native HLS support.": "HLS 스트리밍을 위해서는 플래시 플레이어나 네이티브 HLS 지원이 필요합니다.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "<a href='{1}' target='_blank'>Plex Media Server</a>를 설치해야만 합니다.",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": " <a href='{1}' target='_blank'>myPlex</a> 계정에 서버를 연동하십시오"
 }

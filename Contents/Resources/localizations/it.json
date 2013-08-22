@@ -623,7 +623,7 @@
   "Edit Section / Edit Media": "Modifica Sezione / Modifica Media",
   "Save Settings / Save Media": "Salva Impostazioni / Salva Media",
   "Refresh Section / Refresh Media": "Aggiorna Sezione / Aggiorna Media",
-  "Delete Section / Delete Media": "Elimina Sezione / Elimina Media",
+  "Delete Section / Delete Media": "Elimina Sezione / Elimina elemento",
   "Analyze Media": "Analizza Media",
   "Play / Pause": "Riproduci / Metti in pausa",
   "Decrease Volume": "Diminuisci Volume",
@@ -697,8 +697,8 @@
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Impossibile scaricare questa risorsa. Per favore controlla che sia ancora disponibile e prova ancora.",
   "An error occurred while syncing this media.": "Si è verificato un errore durante la sincronizzazione di questa risorsa.",
   "There was an error attempting to play this video.": "Sì è verificato un errore nel tentativo di riprodurre questo video.",
-  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
-  "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
-  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account."
+  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "Lo streaming HTML5 richiede Plex Media Server 0.9.8.5 o successivo.",
+  "HLS streaming requires the Flash player or native HLS support.": "Lo streaming HLS richiede il Flash player oppure il supporto nativo a HLS.",
+  "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "È necessario installare <a href='{1}' target='_blank'>Plex Media Server</a>",
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "e connettere il server con il tuo account <a href='{1}' target='_blank'>myPlex</a>."
 }
