@@ -700,5 +700,7 @@
   "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "Streaming com HTML5 requer Plex Media Server 0.9.8.5 ou superior.",
   "HLS streaming requires the Flash player or native HLS support.": "Streaming HLS requer Flash player ou suporte HLS nativo.",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Você precisa instalar o <a href='{1}' target='_blank'>Plex Media Server</a>",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "e conectar o servidor com sua conta <a href='{1}' target='_blank'>myPlex</a>."
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "e conectar o servidor com sua conta <a href='{1}' target='_blank'>myPlex</a>.",
+  "Mono": "Mono",
+  "Stereo": "Estéreo"
 }

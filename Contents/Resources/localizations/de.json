@@ -292,7 +292,7 @@
   "Mark as Unwatched": "Als ungesehen markieren",
   "Are you sure you want to mark all episodes as unwatched?": "Wirklich alle Episoden als ungesehen markieren?",
   "Mark as Watched": "Als gesehen markieren",
-  "Are you sure you want to mark all episodes as watched?": "Möchtest du alle Episoden als gesehen markieren?",
+  "Are you sure you want to mark all episodes as watched?": "Wirklich alle Episoden als gesehen markieren?",
   "Merge": "Zusammenfügen",
   "Are you sure you want to merge into {1}?": "Zu {1} zusammenführen?",
   "Split Apart": "Aufteilen",
@@ -649,7 +649,7 @@
   "Featured": "Empfohlen",
   "What's New": "Neuigkeiten",
   "Most Popular": "Am beliebtesten",
-  "Recently Updated": "Aktualisiert",
+  "Recently Updated": "Kürzlich aktualisiert",
   "Categories": "Kategorien",
   "Media Types": "Medientypen",
   "More...": "Mehr...",
@@ -667,7 +667,7 @@
   "Originally Available": "Ursprünglich verfügbar",
   "Title": "Titel",
   "Sort Title": "Nach Titel sortieren",
-  "Original Title": "Titel des Originals",
+  "Original Title": "Originaltitel",
   "Summary": "Zusammenfassung",
   "Tagline": "Tagline",
   "Studio": "Studio",
@@ -700,5 +700,7 @@
   "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "Das Streaming von HTML5 Inhalten setzt Plex Media Server 0.9.8.5 oder höher voraus.",
   "HLS streaming requires the Flash player or native HLS support.": "HLS Streaming benötigt den Flash Player oder native HLS Unterstützung.",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Sie müssen den <a href='{1}' target='_blank'>Plex Media Server</a> installieren",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "und den Server mit Ihrem <a href='{1}' target='_blank'>myPlex</a> Account anmelden."
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "und den Server mit Ihrem <a href='{1}' target='_blank'>myPlex</a> Account anmelden.",
+  "Mono": "Mono",
+  "Stereo": "Stereo"
 }

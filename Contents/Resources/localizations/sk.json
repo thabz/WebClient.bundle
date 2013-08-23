@@ -700,5 +700,7 @@
   "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streamovanie vyžaduje Plex Media Server 0.9.8.5 alebo novší.",
   "HLS streaming requires the Flash player or native HLS support.": "HLS streamovanie vyžaduje Flash player alebo natívnu podporu HLS.",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Musíte nainštalovať <a href='{1}' target='_blank'>Plex Media Server</a>.",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "a pripojiť váš server s vašim <a href='{1}' target='_blank'>myPlex</a> účtom."
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "a pripojiť váš server s vašim <a href='{1}' target='_blank'>myPlex</a> účtom.",
+  "Mono": "Mono",
+  "Stereo": "Stereo"
 }

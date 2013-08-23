@@ -700,5 +700,7 @@
   "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5를 이용한 스트리밍은 Plex Media Server 0.9.8.5 이후부터 지원합니다",
   "HLS streaming requires the Flash player or native HLS support.": "HLS 스트리밍을 위해서는 플래시 플레이어나 네이티브 HLS 지원이 필요합니다.",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "<a href='{1}' target='_blank'>Plex Media Server</a>를 설치해야만 합니다.",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": " <a href='{1}' target='_blank'>myPlex</a> 계정에 서버를 연동하십시오"
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": " <a href='{1}' target='_blank'>myPlex</a> 계정에 서버를 연동하십시오",
+  "Mono": "Mono",
+  "Stereo": "Stereo"
 }

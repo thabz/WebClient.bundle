@@ -700,5 +700,7 @@
   "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "A HTML5 adatfolyamhoz a Plex Média Szerver 0.9.8.5-ös vagy újabb kiadása szükséges.",
   "HLS streaming requires the Flash player or native HLS support.": "HLS adatfolyamhoz  Flash Player vagy natív HLS támogatás szükséges.",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Telepítse a <a href='{1}' target='_blank'>Plex Média Szervert</a>",
-  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "és csatlakozzon a szerverhez <a href='{1}' target='_blank'>myPlex</a> fiókjával."
+  "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "és csatlakozzon a szerverhez <a href='{1}' target='_blank'>myPlex</a> fiókjával.",
+  "Mono": "Mono",
+  "Stereo": "Stereo"
 }
