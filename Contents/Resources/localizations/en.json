@@ -697,7 +697,7 @@
   "This media was unable to be downloaded. Please check that it is still available and try again.": "This media was unable to be downloaded. Please check that it is still available and try again.",
   "An error occurred while syncing this media.": "An error occurred while syncing this media.",
   "There was an error attempting to play this video.": "There was an error attempting to play this video.",
-  "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.5 or later.",
+  "HTML5 streaming requires Plex Media Server 0.9.8.6 or later.": "HTML5 streaming requires Plex Media Server 0.9.8.6 or later.",
   "HLS streaming requires the Flash player or native HLS support.": "HLS streaming requires the Flash player or native HLS support.",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>",
   "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.",

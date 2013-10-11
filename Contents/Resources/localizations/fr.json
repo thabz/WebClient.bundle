@@ -690,8 +690,8 @@
   "Show unwatched icons in movie lists.": "Afficher les icônes \"Non vus\" dans les listes de films.",
   "This media is inaccessible. Please check that the file exists with the correct permissions.": "Ce média et inaccessible. Merci de vérifier que le fichier existe avec les bonnes permissions.",
   "The metadata for this media is invalid. Please reanalyze the media and try again.": "Les métadonnées de ce média sont invalides. Merci de le réanalyser puis de réessayer.",
-  "The client profile for the sync target is invalid.": "Le profil client est incorrect pour la cible de la synchronisation.",
-  "An error occurred processing this media. Please check that the disk is not full.": "Une erreur est survenue durant le traitement du média. Merci de vérifier que le disque n'est pas plein.",
+  "The client profile for the sync target is invalid.": "Le profile client est incorrect pour la cible de la synchronisation.",
+  "An error occurred processing this media. Please check that the disk is not full.": "Une erreur est survenue durant la progression du média. Merci de vérifier que le disque n'est pas plein.",
   "The transcoder was unable to process this media.": "Impossible de transcoder ce média.",
   "This media was unable to be analyzed.": "Impossible d'analyser ce média.",
   "This media was unable to be downloaded. Please check that it is still available and try again.": "Impossible de télécharger ce média. Merci de vérifier qu'il est toujours disponible puis de réessayer.",
@@ -702,5 +702,5 @@
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Vous devez installer le <a href='{1}' target='_blank'>Plex Media Server</a>",
   "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "et connecter le serveur à votre compte <a href='{1}' target='_blank'>myPlex</a>.",
   "Mono": "Mono",
-  "Stereo": "Stereo"
+  "Stereo": "Stéréo"
 }

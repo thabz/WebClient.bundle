@@ -702,5 +702,5 @@
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "Ha d'instal·lar el <a href='{1}' target='_blank'> Plex Media Server </a>",
   "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "i connectar el servidor amb el teu compte de <a href='{1}' target='_blank'> myPlex </a> .",
   "Mono": "Mono",
-  "Stereo": "Stereo"
+  "Stereo": "Estèreo"
 }

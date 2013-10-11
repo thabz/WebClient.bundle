@@ -701,6 +701,6 @@
   "HLS streaming requires the Flash player or native HLS support.": "לצורך הזרמה ב HLS נדרש נגן פלאש או תמיכת HLS מובנית",
   "You must install the <a href='{1}' target='_blank'>Plex Media Server</a>": "עליך להתקין את <a href='{1}' target='_blank'>שרת המדיה של פלקס</a>",
   "and connect the server with your <a href='{1}' target='_blank'>myPlex</a> account.": "ולקשר את השרת עם חשבון ה  <a href='{1}' target='_blank'>myPlex</a> שלך",
-  "Mono": "Mono",
-  "Stereo": "Stereo"
+  "Mono": "מונו",
+  "Stereo": "סטראו"
 }

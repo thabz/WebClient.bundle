@@ -441,7 +441,7 @@
   "Enable Aperture sharing": "Aktivér Aperture deling",
   "Number of seconds to wait before a plugin times out": "Antal sekunder der ventes før et plug-in timer ud",
   "Disable capability checking": "Deaktiver kompabilitetstjek",
-  "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.": "Kontrol for korrekt afvikling sikrer, at plug-ins, der er uforenelige med denne version af serveren eller det aktuelle klient program du bruger, er skjult. Deaktivering af kontrol for korrekt afvikling er nyttig under udvikling, og vil give adgang til plug-ins, der kan opføre sig upålideligt med visse klientprogrammer.",
+  "Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications.": "Kompabilitetskontrol sikrer, at plug-ins, der er ukompatiblemed denne version af serveren eller det aktuelle klient program du bruger, er skjult. Deaktivering af kompabilitetskontrol er nyttig under udvikling, og vil give adgang til plug-ins, der kan opføre sig upålideligt med visse klientprogrammer.",
   "iPhoto library XML path": "iPhoto bibliotek XML sti",
   "Enable iPhoto sharing": "Aktiver iPhoto-deling",
   "iTunes library XML path": "iTunes bibliotek XML sti",
