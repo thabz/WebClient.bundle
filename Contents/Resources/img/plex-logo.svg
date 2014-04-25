@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Plex-Logo-Light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+   y="0px" width="3087px" height="1000px" viewBox="0 0 3087 1000" enable-background="new 0 0 3087 1000" xml:space="preserve">
+<g id="X_2_">
+  <polygon id="X_3_" fill="#FFFFFF" points="3086.99,0 2796.99,0 2506.99,500 2796.99,1000 3086.737,1000 2796.99,500.25   "/>
+  <g id="chevron_2_">
+    <defs>
+      <polygon id="mask_1_" points="2186.99,0 2476.99,0 2796.99,500 2476.99,1000 2186.99,1000 2506.99,500       "/>
+    </defs>
+    <clipPath id="mask_2_">
+      <use xlink:href="#mask_1_"  overflow="visible"/>
+    </clipPath>
+    <rect id="orange_1_" x="1766" clip-path="url(#mask_2_)" fill="#CC7C19" width="1000" height="1000"/>
+
+      <radialGradient id="gradient_2_" cx="2497.3333" cy="475.1429" r="537.3489" fx="2850.3005" fy="474.6889" gradientTransform="matrix(0.6 0 0 0.84 1061.6 100.88)" gradientUnits="userSpaceOnUse">
+      <stop  offset="0.1656" style="stop-color:#F9BE03"/>
+      <stop  offset="0.5139" style="stop-color:#E8A50B"/>
+      <stop  offset="1" style="stop-color:#CC7C19"/>
+    </radialGradient>
+    <rect id="gradient_1_" x="2260" y="-200" clip-path="url(#mask_2_)" fill="url(#gradient_2_)" width="600" height="1400"/>
+  </g>
+</g>
+<path id="E_1_" fill="#FFFFFF" d="M2086.947,1000h-577.073V0h577.073v173.737h-364.608v219.562h339.255v173.731h-339.255v257.864
+  h364.608V1000z"/>
+<path id="L_1_" fill="#FFFFFF" d="M792.276,1000V0h212.04v824.895h405.609V1000H792.276z"/>
+<path id="P_1_" fill="#FFFFFF" d="M691.934,311.902c0,107.625-33.632,189.928-100.888,246.923
+  c-67.268,57.007-162.91,85.501-286.938,85.501H213.14V1000H1.1V0h319.424c121.293,0,213.515,26.107,276.677,78.321
+  C660.353,130.534,691.934,208.392,691.934,311.902z M213.14,470.588h69.766c65.204,0,113.992-12.879,146.374-38.644
+  c32.372-25.759,48.566-63.269,48.566-112.52c0-49.694-13.576-86.406-40.699-110.12c-27.136-23.707-69.661-35.567-127.564-35.567
+  H213.14V470.588z"/>
+</svg>

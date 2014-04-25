@@ -12,50 +12,44 @@
   Credits
    * Glyphicons - http://glyphicons.com
 -->
-<html lang="en">
+<html lang="en" data-cast-api-enabled="true">
 
 <head>
-	<title>Plex/Web</title>
+  <title>Plex</title>
 
-	<meta charset="utf-8">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
 
-	<link rel="stylesheet" href="css/plex.css?hash=c234d09">
-	<link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" href="css/main-desktop.css?hash=e404a85">
+  <link rel="shortcut icon" href="favicon.ico">
 
-	<link rel="apple-touch-icon-precomposed" href="img/touch/icon_iphone.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/touch/icon_ipad.png">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/touch/icon_iphone@2x.png">
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/touch/icon_ipad@2x.png">
+  <link rel="apple-touch-icon-precomposed" href="img/ios/icon-iphone.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/ios/icon-ipad.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/ios/icon-iphone@2x.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/ios/icon-ipad@2x.png">
 
-	<link rel="apple-touch-startup-image" media="(device-width: 320px)" href="img/touch/startup_iphone_portrait.png">
-	<link rel="apple-touch-startup-image" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" href="img/touch/startup_iphone_portrait@2x.png">
-	<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="startup_iphone5_portrait@2x.png">
-	<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: portrait)" href="img/touch/startup_ipad_portrait.png">
-	<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: landscape)" href="img/touch/startup_ipad_landscape.png">
-	<link rel="apple-touch-startup-image" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="startup_ipad_portrait@2x.png">
-	<link rel="apple-touch-startup-image" media="(device-width: 1536px)  and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="startup_ipad_landscape@2x.png">
-
-	<!-- errorception -->
-	<script>
-		var _errs=["503643a39876462377000cc5"];(function(a,b){a.onerror=function(){_errs.push(arguments)};
-		var d=function(){var a=b.createElement("script"),c=b.getElementsByTagName("script")[0];
-		a.src="//d15qhc0lu1ghnk.cloudfront.net/beacon.js";a.async=!0;
-		c.parentNode.insertBefore(a,c)};a.addEventListener?a.addEventListener("load",d,!1):
-		a.attachEvent("onload",d)})(window,document);
-	</script>
+  <link rel="apple-touch-startup-image" media="(device-width: 320px)" href="img/ios/startup-iphone-portrait.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" href="img/ios/startup-iphone-portrait@2x.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="img/ios/startup-iphone5-portrait@2x.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: portrait)" href="img/ios/startup-ipad-portrait.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: landscape)" href="img/ios/startup-ipad-landscape.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="img/ios/startup-ipad-portrait@2x.png">
+  <link rel="apple-touch-startup-image" media="(device-width: 1536px)  and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="img/ios/startup-ipad-landscape@2x.png">
 </head>
 
 <body>
-	<div id="plex" class="application">
-		<div class="scroll-container minimal-scrollbar">
-			<i class="plex-icon-preloader plex-icon-myplex"></i>
-		</div>
-	</div>
+  <div id="plex" class="application">
+    <div class="scroll-container minimal-scroll">
+      <i class="plex-image-preloader plex-image logo"></i>
+    </div>
+  </div>
 
-	<script src="js/analytics.js?hash=c234d09"></script>
-	<script id="plex-script" src="js/plex.js?hash=c234d09&version=1.2.25"></script>
+  <script>
+    window.PLEXWEB = { bundled: true, hosted: false };
+  </script>
+
+  <script id="plex-script" src="js/plex.js?hash=e404a85&version=2.1.0"></script>
 </body>
 
 </html>
