@@ -778,5 +778,6 @@
   "Library scan complete: Extra information may still be downloading from the Internet": "Library scan complete: Extra information may still be downloading from the Internet",
   "S{1}": "S{1}",
   "E{1}": "E{1}",
-  "Episode {1}": "Episode {1}"
+  "Episode {1}": "Episode {1}",
+  "Duration": "Duration"
 }
