@@ -207,7 +207,7 @@
   "Password": "סיסמה",
   "Confirm Password": "אישור סיסמה",
   "Passwords do not match": "סיסמאות אינן תואמות",
-  "Date of Birth": "Date of Birth",
+  "Date of Birth": "תאריך לידה",
   "This can't be your birthday": "This can't be your birthday",
   "You must be 13 years or older": "You must be 13 years or older",
   "I agree to the {1}terms of service{2}": "I agree to the {1}terms of service{2}",
@@ -765,7 +765,7 @@
   "Decrease Volume": "הנמך/י את עוצמת הקול",
   "Increase Volume": "הגבר/י את עוצמת הקול",
   "Seek Backward (15 seconds)": "Seek Backward (15 seconds)",
-  "Seek Forward (30 seconds)": "Seek Forward (30 seconds)",
+  "Seek Forward (30 seconds)": "הרץ/י קדימה (30 שניות)",
   "Step Backward (10 minutes)": "Step Backward (10 minutes)",
   "Step Forward (10 minutes)": "Step Forward (10 minutes)",
   "Skip to Previous Item": "דלג לפריט קודם",
@@ -782,5 +782,5 @@
   "E{1}": "E{1}",
   "Episode {1}": "פרק {1}",
   "Duration": "משך",
-  "Duplicates": "Duplicates"
+  "Duplicates": "כפול"
 }
