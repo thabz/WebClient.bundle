@@ -507,6 +507,7 @@
   "Select which additional agents should contribute to metadata from {1}, and drag them to change the order of preference.": "Виберіть додатковий агент, за допомогою якого, буде відбуватися пошук описів фільмів, музики і т.д. Перетягніть агент вгору списка для зміни порядку пошуку.",
   "Connecting server...": "Підключення до сервера...",
   "Disconnecting server...": "Відключення від серверу...",
+  "First {1}sign in{2} to access your server from anywhere.": "{1}Увійдіть{2} для доступу до сервера звідусіль.",
   "Manually specify port": "Власноруч вказаний порт",
   "Retry": "Повторити",
   "Downloading Update": "Завантаження оновлень",
