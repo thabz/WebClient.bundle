@@ -12,6 +12,8 @@
   "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyse the media and try again.",
   "This media was unable to be analyzed.": "This media was unable to be analysed.",
   "Add to library: ": "Add to library:",
+  "Unauthorized": "Unauthorised",
+  "Help us out by following {1}our guide{2} to naming and organizing your media.": "Help us out by following {1}our guide{2} to naming and organising your media.",
   "Organize Your Media": "Organise your media",
   "Plex organizes your media into libraries. You can add as many libraries as you want, and you can have multiple libraries with the same type.": "Plex organises your media into libraries. You can add as many libraries as you want, and you can have multiple libraries with the same type.",
   "Analyze Library or Analyze Item": "Analyse Library or Analyse Item",

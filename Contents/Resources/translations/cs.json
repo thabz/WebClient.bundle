@@ -512,7 +512,7 @@
   "Location": "Umístění",
   "Search Options": "Volby hledání",
   "Search": "Vyhledávání",
-  "Importing from iTunes will import your music playlists. It will also import your ratings, the date you added the music, as well as play and skip counts for tracks in your library. Depending on how many tracks you have, this process can take many minutes to complete.": "Importováním z iTunes vložíte Vaše hudební playlisty.  Do Vaší knihovny bude také importováno Vaše hodnocení, datum přidání hudby a počet přehrání a zastavení skladeb. Délka trvaní procesu je závislá na počtu Vašich skladeb.",
+  "Importing from iTunes will import your music playlists. It will also import your ratings, the date you added the music, as well as play and skip counts for tracks in your library. Depending on how many tracks you have, this process can take many minutes to complete.": "Importování z iTunes vloží seznamy stop vaší hudby. Budou také importována vaše hodnocení, datum přidání hudby a počet přehrání a přeskočení skladeb. V závislosti na množství skladeb může tento proces trvat mnoho minut.",
   "Add to library: ": "Přidat do knihovny.",
   "Overwrite existing playlists": "Přepsat existující playlist",
   "Import": "Importovat",
