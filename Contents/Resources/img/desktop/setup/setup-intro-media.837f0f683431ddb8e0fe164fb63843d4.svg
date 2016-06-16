@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="715px" height="149px" viewBox="0 0 715 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>MEDIA ICONS</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M57.8969984,-3.68149955e-13 L10.0085,-3.68149955e-13 C4.48177925,-3.68149955e-13 1.27897692e-13,4.48095806 1.27897692e-13,10.0085 L1.27897692e-13,15.513454 L57.8969984,-3.71702669e-13 Z M114.673379,-3.68149955e-13 L118.562929,-3.68149955e-13 C124.090471,-3.68149955e-13 128.571429,4.48177925 128.571429,10.0085 L128.571429,51.8682283 L114.673379,-3.69926312e-13 Z M128.571429,114.16831 L128.571429,118.562929 C128.571429,124.090471 124.089649,128.571429 118.562929,128.571429 L74.8182568,128.571429 L128.571429,114.16831 Z M16.018523,128.571429 L10.0085,128.571429 C4.48095806,128.571429 1.27897692e-13,124.089649 1.27897692e-13,118.562929 L1.27897692e-13,68.7894867 L16.018523,128.571429 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="132.571429" height="132.571429">
+            <rect x="-2" y="-2" width="132.571429" height="132.571429" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-3" x="-5.19584376e-14" y="-5.64881475e-13" width="128.571429" height="128.571429" rx="10"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="128.571429" height="128.571429" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M39.7824697,26.5924269 L39.7824697,83.9886755 C36.5031456,82.9547999 32.5480331,82.8282579 28.5148414,83.8863649 C19.7484381,86.1829687 14.0271215,93.1454745 15.7448626,99.4214223 C17.4626038,105.69737 25.9705382,108.925539 34.7396339,106.618166 C42.8410183,104.501952 49.4506813,98.4010087 48.8906654,92.5423804 L48.9310512,50.8238857 L89.3168157,45.4391171 L89.3168157,78.6039069 C86.0374916,77.5700313 82.0823791,77.4434893 78.0491874,78.5015963 C69.2827841,80.7982001 63.5614675,87.7607059 65.2792087,94.0366537 C66.9969499,100.312602 75.5048843,103.54077 84.2739799,101.233397 C92.3753643,99.1171829 98.9850274,93.0162401 98.4250114,87.1576118 C98.4250114,72.3629601 98.4653972,21.2076583 98.4653972,21.2076583 L39.7824697,26.5924269 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="83.0251489" height="86.1561119" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M66.1125064,9.59543251 L25.408009,6.03425043 C20.536813,5.60807601 16.2482624,9.20848106 15.8224634,14.0753853 L15.4325891,18.5316693 L66.1125064,9.59543251 Z M121.847103,14.4715779 L127.322236,14.95059 C132.190388,15.376498 135.791526,19.6683137 135.365827,24.5340744 L131.471043,69.0516568 L121.847103,14.4715779 Z M126.048416,131.032574 L125.577535,136.414766 C125.151736,141.28167 120.863186,144.882075 115.99199,144.455901 L71.8319574,140.592399 L126.048416,131.032574 Z M21.4573028,136.185187 L14.0777624,135.539561 C9.20961074,135.113653 5.60847237,130.821837 6.03417128,125.956077 L10.5507671,74.3311501 L21.4573028,136.185187 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="133.399998" height="142.490151">
+            <rect x="4" y="4" width="133.399998" height="142.490151" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <path d="M0.607014388,9.01458637 C0.607014388,4.12909134 4.56544977,0.168615108 9.45525293,0.168615108 L111.758776,0.168615108 C116.645523,0.168615108 120.607014,4.13023918 120.607014,9.01458637 L120.607014,121.322644 C120.607014,126.208139 116.648579,130.168615 111.758776,130.168615 L9.45525293,130.168615 C4.56850572,130.168615 0.607014388,126.206991 0.607014388,121.322644 L0.607014388,9.01458637 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="130" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="14.6357914" y="14.1973921" width="90.647482" height="82.0143885"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="90.647482" height="82.0143885" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polygon id="path-13" points="14.6357914 65.9959532 44.8516187 42.254946 68.5926259 69.2333633 82.6214029 58.4419964 105.283273 78.9455935 105.283273 96.2117806 14.6357914 96.2117806"></polygon>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="90.647482" height="53.9568345" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <path d="M63.9720394,8.68096852 L22.1195194,5.01934748 C19.3691406,4.77872052 16.9404627,6.81052713 16.7000928,9.55796752 L16.0373505,17.1331475 L63.9720394,8.68096852 Z M111.857364,12.8703916 L122.728816,13.8215204 C125.481513,14.0623502 127.517365,16.4938633 127.277787,19.2322622 L122.535952,73.4316761 L111.857364,12.8703916 Z M117.248378,133.868928 L116.596846,141.315967 C116.356476,144.063408 113.927799,146.095214 111.17742,145.854588 L69.8031259,142.234806 L117.248378,133.868928 Z M21.2056686,137.983079 L10.5681228,137.052415 C7.81542606,136.811585 5.77957377,134.380072 6.01915263,131.641673 L10.6846135,78.315211 L21.2056686,137.983079 Z" id="path-15"></path>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="125.296939" height="144.873935">
+            <rect x="4" y="3" width="125.296939" height="144.873935" fill="white"></rect>
+            <use xlink:href="#path-15" fill="black"></use>
+        </mask>
+        <path d="M11,13.9936834 C11,11.2357482 13.2423524,9 16.0032372,9 L116.996845,9 C119.760057,9 122.000083,11.2448243 122.000083,13.9936834 L122.000083,136.543729 C122.000083,139.301664 119.754217,141.537412 117.00058,141.537412 L30.2231424,141.537412 L16.0004726,141.537412 C13.2387878,141.537412 11,139.292588 11,136.543729 L11,13.9936834 Z" id="path-17"></path>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="111.000083" height="132.537412" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+    </defs>
+    <g id="Screens-1-9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01---HOW-PLEX-WORKS" transform="translate(-1185.000000, -985.000000)">
+            <g id="How-Plex-Works-03-(Grey/Coloured-Icons)" transform="translate(0.000000, 27.000000)">
+                <g id="03---SCAN-+-ORGANIZE" transform="translate(906.000000, 821.000000)">
+                    <g id="MEDIA-ICONS" transform="translate(278.000000, 136.000000)">
+                        <g id="Icon-Music" transform="translate(567.000000, 0.000000)" stroke="#D8FF95" stroke-width="4">
+                            <g id="icon-music" transform="translate(75.194794, 75.232147) rotate(-355.000000) translate(-75.194794, -75.232147) translate(10.694794, 10.732147)">
+                                <use id="Combined-Shape" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="icon-music" transform="translate(75.500000, 75.500000) rotate(-10.000000) translate(-75.500000, -75.500000) translate(11.000000, 11.000000)">
+                                <use id="music-background" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                                <use id="musical-note" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <g id="Icon-Photos" transform="translate(280.000000, 0.000000)" stroke="#FFA0DE" stroke-width="4">
+                            <use id="Combined-Shape" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                            <g id="icon-photo-mountains" transform="translate(71.579228, 75.405580) rotate(-10.000000) translate(-71.579228, -75.405580) translate(11.079228, 9.905580)">
+                                <use id="Rectangle-213" mask="url(#mask-10)" xlink:href="#path-9"></use>
+                                <use id="Rectangle-214" mask="url(#mask-12)" xlink:href="#path-11"></use>
+                                <use id="Path-59" mask="url(#mask-14)" xlink:href="#path-13"></use>
+                            </g>
+                        </g>
+                        <g id="Icon-Movies" stroke="#A4E2FF">
+                            <use id="Combined-Shape" mask="url(#mask-16)" stroke-width="4" xlink:href="#path-15"></use>
+                            <g id="icon-movie">
+                                <use id="icon-movie-01" mask="url(#mask-18)" stroke-width="4" transform="translate(66.500041, 75.268706) rotate(-10.000000) translate(-66.500041, -75.268706) " xlink:href="#path-17"></use>
+                                <rect id="hole" stroke-width="2" transform="translate(17.580887, 35.084519) rotate(-10.000000) translate(-17.580887, -35.084519) " x="12.6107344" y="30.1143657" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(21.752334, 58.741970) rotate(-10.000000) translate(-21.752334, -58.741970) " x="16.7821814" y="53.7718173" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(25.923781, 82.399422) rotate(-10.000000) translate(-25.923781, -82.399422) " x="20.9536285" y="77.4292688" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(30.095228, 106.056873) rotate(-10.000000) translate(-30.095228, -106.056873) " x="25.1250755" y="101.08672" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(34.266675, 129.714325) rotate(-10.000000) translate(-34.266675, -129.714325) " x="29.2965225" y="124.744172" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(99.158307, 20.700219) rotate(-10.000000) translate(-99.158307, -20.700219) " x="94.1881537" y="15.7300656" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(103.329754, 44.357670) rotate(-10.000000) translate(-103.329754, -44.357670) " x="98.3596007" y="39.3875172" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(107.501201, 68.015122) rotate(-10.000000) translate(-107.501201, -68.015122) " x="102.531048" y="63.0449688" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(111.672648, 91.672573) rotate(-10.000000) translate(-111.672648, -91.672573) " x="106.702495" y="86.7024204" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="hole" stroke-width="2" transform="translate(115.844095, 115.330025) rotate(-10.000000) translate(-115.844095, -115.330025) " x="110.873942" y="110.359872" width="9.9403059" height="9.9403059"></rect>
+                                <rect id="Rectangle-106" stroke-width="2" transform="translate(61.416012, 48.449975) rotate(-10.000000) translate(-61.416012, -48.449975) " x="34.9085301" y="27.7410046" width="53.0149648" height="41.4179412"></rect>
+                                <rect id="Rectangle-106" stroke-width="2" transform="translate(71.197336, 103.922620) rotate(-10.000000) translate(-71.197336, -103.922620) " x="44.6898541" y="83.2136497" width="53.0149648" height="41.4179412"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
