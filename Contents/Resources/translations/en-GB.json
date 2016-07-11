@@ -1,7 +1,10 @@
 {
+  "User could not be authenticated. This account only allows signing in with email address": "User could not be authenticated. This account only allows signing in with an email address",
+  "Confirm Password must match Password": "onfirm Password must match Password",
   "Analyze": "Analyse",
   "Optimize...": "Optimise...",
   "Analyzing": "Analysing",
+  "Subscribe to our amazing, but infrequent email newsletter": "Subscribe to our amazing, but infrequent, email newsletter",
   "Optimize Database": "Optimise Database",
   "Optimize": "Optimise",
   "There was a problem analyzing the library.": "There was a problem analysing the library.",
@@ -15,7 +18,6 @@
   "Right click the \"Plex It!\" button and choose Add to Favorites so you can save videos to Watch Later.": "Right click the \"Plex It!\" button and choose Add to Favourites so you can save videos to Watch Later.",
   "The metadata for this media is invalid. Please reanalyze the media and try again.": "The metadata for this media is invalid. Please reanalyse the media and try again.",
   "This media was unable to be analyzed.": "This media was unable to be analysed.",
-  "Add to library: ": "Add to library:",
   "Organize Your Media": "Organise your media",
   "Plex organizes your media into libraries. You can add as many libraries as you want, and you can have multiple libraries with the same type.": "Plex organises your media into libraries. You can add as many libraries as you want, and you can have multiple libraries with the same type.",
   "Unauthorized": "Unauthorised",
